@@ -1,0 +1,133 @@
+
+
+/* Regular code blocks
+----------------------------------
+*/
+
+code {
+    font-family: monospace;
+    font-size: 16px;
+}
+
+.language-bash {
+    background-color: #ECECEC;
+    display: block;
+
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 15px;
+}
+
+.language-glsl {
+    background-color: #ECECEC;
+
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 15px;
+}
+
+.language-cpp {
+    background-color: #ECECEC;
+
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 15px;
+}
+
+.language-html {
+    background-color: #ECECEC;
+
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 15px;
+}
+
+.language-processing {
+    background-color: #ECECEC;
+
+    font-size: 14px;
+    line-height: 1.5em;
+    padding: 15px;
+}
+
+/* Interactive GLSL Elements
+---------------------------------
+*/
+
+.canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+}
+
+.codeAndCanvas {
+    height:auto;
+    clear:both;
+}
+
+.codeAndCanvas canvas {
+    float: right;
+    position: relative;
+    z-index: 1;
+}
+
+.codeAndCanvas .ge_editor {
+    background: #ECECEC;
+}
+
+.CodeMirror {
+    background: #ECECEC;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+.simpleFunction {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+    
+}
+
+.simpleFunction .CodeMirror {
+    background: #F9F9F9;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+.simpleFunction canvas {
+    float: top;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+}
+
+.cm-s-default .cm-variable-3 {
+    color: #708;
+}
+
+.cm-s-default .cm-keyword {
+    color: #708;
+}
+
+.ge_tooltip_modal {
+    background-color: #B4B4B4;
+}
+
+.ge_tooltip_modal p {
+    color: #000000;
+}
+
+.ge_tooltip_modal a {
+    color: #FEFFFF;
+}
+
+.ge_export_modal {
+    box-shadow: none;
+}
+
+.ge_colorpicker_link-button {
+    color: #333;
+}
