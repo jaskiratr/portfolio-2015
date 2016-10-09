@@ -1,0 +1,11 @@
+
+extends layout
+
+block content
+  .container
+    .row
+      .col.m4.s12.about-profile-image.center
+        img.circle(src=contents.images['profile.jpg'].url)
+      .col.m8.s12
+        article.article
+          section.content!= typogr(page.html).typogrify()

@@ -1,0 +1,6557 @@
+[
+    {
+        "LexicalDiversity": 5.088301198008541,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2066"
+            },
+            {
+                "word": "Mr",
+                "count": "785"
+            },
+            {
+                "word": "Elizabeth",
+                "count": "635"
+            },
+            {
+                "word": "could",
+                "count": "516"
+            },
+            {
+                "word": "would",
+                "count": "465"
+            },
+            {
+                "word": "Darcy",
+                "count": "416"
+            },
+            {
+                "word": "said",
+                "count": "401"
+            },
+            {
+                "word": "Mrs",
+                "count": "343"
+            },
+            {
+                "word": "She",
+                "count": "324"
+            },
+            {
+                "word": "much",
+                "count": "323"
+            },
+            {
+                "word": "Bennet",
+                "count": "322"
+            },
+            {
+                "word": "But",
+                "count": "318"
+            },
+            {
+                "word": "must",
+                "count": "314"
+            },
+            {
+                "word": "Bingley",
+                "count": "305"
+            },
+            {
+                "word": "Jane",
+                "count": "295"
+            }
+        ],
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Literature",
+        "absCount": 7471
+    },
+    {
+        "LexicalDiversity": 10.32022655484152,
+        "freqDist": [
+            {
+                "word": "said",
+                "count": "1158"
+            },
+            {
+                "word": "I",
+                "count": "1103"
+            },
+            {
+                "word": "The",
+                "count": "594"
+            },
+            {
+                "word": "Then",
+                "count": "471"
+            },
+            {
+                "word": "came",
+                "count": "461"
+            },
+            {
+                "word": "went",
+                "count": "439"
+            },
+            {
+                "word": "one",
+                "count": "377"
+            },
+            {
+                "word": "little",
+                "count": "371"
+            },
+            {
+                "word": "king",
+                "count": "349"
+            },
+            {
+                "word": "away",
+                "count": "288"
+            },
+            {
+                "word": "would",
+                "count": "262"
+            },
+            {
+                "word": "could",
+                "count": "260"
+            },
+            {
+                "word": "go",
+                "count": "259"
+            },
+            {
+                "word": "took",
+                "count": "244"
+            },
+            {
+                "word": "man",
+                "count": "226"
+            }
+        ],
+        "title": "Grimms' Fairy Tales",
+        "author": "The Brothers Grimm",
+        "genre": "Classic",
+        "absCount": 3790
+    },
+    {
+        "LexicalDiversity": 6.610705315125444,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1971"
+            },
+            {
+                "word": "said",
+                "count": "661"
+            },
+            {
+                "word": "The",
+                "count": "647"
+            },
+            {
+                "word": "Mr",
+                "count": "622"
+            },
+            {
+                "word": "He",
+                "count": "401"
+            },
+            {
+                "word": "one",
+                "count": "396"
+            },
+            {
+                "word": "Lorry",
+                "count": "369"
+            },
+            {
+                "word": "would",
+                "count": "337"
+            },
+            {
+                "word": "It",
+                "count": "334"
+            },
+            {
+                "word": "Defarge",
+                "count": "302"
+            },
+            {
+                "word": "man",
+                "count": "296"
+            },
+            {
+                "word": "upon",
+                "count": "284"
+            },
+            {
+                "word": "could",
+                "count": "279"
+            },
+            {
+                "word": "time",
+                "count": "260"
+            },
+            {
+                "word": "little",
+                "count": "260"
+            }
+        ],
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "genre": "Literature",
+        "absCount": 9159
+    },
+    {
+        "LexicalDiversity": 10.86502725470763,
+        "freqDist": [
+            {
+                "word": "one",
+                "count": "296"
+            },
+            {
+                "word": "I",
+                "count": "214"
+            },
+            {
+                "word": "prince",
+                "count": "185"
+            },
+            {
+                "word": "men",
+                "count": "167"
+            },
+            {
+                "word": "would",
+                "count": "165"
+            },
+            {
+                "word": "Castruccio",
+                "count": "140"
+            },
+            {
+                "word": "The",
+                "count": "131"
+            },
+            {
+                "word": "And",
+                "count": "129"
+            },
+            {
+                "word": "people",
+                "count": "115"
+            },
+            {
+                "word": "may",
+                "count": "104"
+            },
+            {
+                "word": "time",
+                "count": "96"
+            },
+            {
+                "word": "many",
+                "count": "93"
+            },
+            {
+                "word": "ought",
+                "count": "93"
+            },
+            {
+                "word": "others",
+                "count": "93"
+            },
+            {
+                "word": "state",
+                "count": "85"
+            }
+        ],
+        "title": "The Prince",
+        "author": "Nicolo Machiavelli",
+        "genre": "History",
+        "absCount": 35081
+    },
+    {
+        "LexicalDiversity": 9.731492553538427,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2124"
+            },
+            {
+                "word": "whale",
+                "count": "907"
+            },
+            {
+                "word": "one",
+                "count": "893"
+            },
+            {
+                "word": "But",
+                "count": "705"
+            },
+            {
+                "word": "The",
+                "count": "630"
+            },
+            {
+                "word": "like",
+                "count": "624"
+            },
+            {
+                "word": "upon",
+                "count": "540"
+            },
+            {
+                "word": "man",
+                "count": "508"
+            },
+            {
+                "word": "ship",
+                "count": "507"
+            },
+            {
+                "word": "Ahab",
+                "count": "501"
+            },
+            {
+                "word": "ye",
+                "count": "461"
+            },
+            {
+                "word": "old",
+                "count": "438"
+            },
+            {
+                "word": "sea",
+                "count": "432"
+            },
+            {
+                "word": "would",
+                "count": "421"
+            },
+            {
+                "word": "And",
+                "count": "369"
+            }
+        ],
+        "title": "Moby Dick; or The Whale",
+        "author": "Herman Melville",
+        "genre": "Adventure",
+        "absCount": 8952
+    },
+    {
+        "LexicalDiversity": 11.735124490082994,
+        "freqDist": [
+            {
+                "word": "man",
+                "count": "368"
+            },
+            {
+                "word": "The",
+                "count": "361"
+            },
+            {
+                "word": "woman",
+                "count": "357"
+            },
+            {
+                "word": "may",
+                "count": "249"
+            },
+            {
+                "word": "one",
+                "count": "201"
+            },
+            {
+                "word": "women",
+                "count": "189"
+            },
+            {
+                "word": "called",
+                "count": "188"
+            },
+            {
+                "word": "When",
+                "count": "186"
+            },
+            {
+                "word": "also",
+                "count": "178"
+            },
+            {
+                "word": "A",
+                "count": "171"
+            },
+            {
+                "word": "love",
+                "count": "167"
+            },
+            {
+                "word": "time",
+                "count": "134"
+            },
+            {
+                "word": "men",
+                "count": "121"
+            },
+            {
+                "word": "work",
+                "count": "111"
+            },
+            {
+                "word": "things",
+                "count": "107"
+            }
+        ],
+        "title": "The Kama Sutra of Vatsyayana",
+        "author": "Vatsyayana",
+        "genre": "Non-Fiction",
+        "absCount": 3337
+    },
+    {
+        "LexicalDiversity": 8.842105263157894,
+        "freqDist": [
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "tm",
+                "count": "57"
+            },
+            {
+                "word": "I",
+                "count": "55"
+            },
+            {
+                "word": "work",
+                "count": "50"
+            },
+            {
+                "word": "1",
+                "count": "46"
+            },
+            {
+                "word": "works",
+                "count": "32"
+            },
+            {
+                "word": "electronic",
+                "count": "27"
+            },
+            {
+                "word": "may",
+                "count": "26"
+            },
+            {
+                "word": "Foundation",
+                "count": "24"
+            },
+            {
+                "word": "E",
+                "count": "22"
+            },
+            {
+                "word": "children",
+                "count": "20"
+            },
+            {
+                "word": "terms",
+                "count": "19"
+            },
+            {
+                "word": "would",
+                "count": "18"
+            },
+            {
+                "word": "one",
+                "count": "17"
+            }
+        ],
+        "title": "A Modest Proposal",
+        "author": "Jonathan Swift",
+        "genre": "Fiction",
+        "absCount": 3318
+    },
+    {
+        "LexicalDiversity": 8.976363779545276,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "3038"
+            },
+            {
+                "word": "said",
+                "count": "486"
+            },
+            {
+                "word": "upon",
+                "count": "465"
+            },
+            {
+                "word": "Holmes",
+                "count": "461"
+            },
+            {
+                "word": "It",
+                "count": "446"
+            },
+            {
+                "word": "The",
+                "count": "357"
+            },
+            {
+                "word": "one",
+                "count": "340"
+            },
+            {
+                "word": "would",
+                "count": "322"
+            },
+            {
+                "word": "He",
+                "count": "318"
+            },
+            {
+                "word": "man",
+                "count": "302"
+            },
+            {
+                "word": "You",
+                "count": "283"
+            },
+            {
+                "word": "could",
+                "count": "282"
+            },
+            {
+                "word": "Mr",
+                "count": "272"
+            },
+            {
+                "word": "little",
+                "count": "269"
+            },
+            {
+                "word": "see",
+                "count": "224"
+            }
+        ],
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Classic",
+        "absCount": 7979
+    },
+    {
+        "LexicalDiversity": 8.175068623578149,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "831"
+            },
+            {
+                "word": "Jack",
+                "count": "289"
+            },
+            {
+                "word": "Algernon",
+                "count": "271"
+            },
+            {
+                "word": "Cecily",
+                "count": "256"
+            },
+            {
+                "word": "Gwendolen",
+                "count": "178"
+            },
+            {
+                "word": "Miss",
+                "count": "132"
+            },
+            {
+                "word": "Lady",
+                "count": "128"
+            },
+            {
+                "word": "Bracknell",
+                "count": "128"
+            },
+            {
+                "word": "one",
+                "count": "119"
+            },
+            {
+                "word": "You",
+                "count": "103"
+            },
+            {
+                "word": "It",
+                "count": "101"
+            },
+            {
+                "word": "The",
+                "count": "89"
+            },
+            {
+                "word": "Mr",
+                "count": "88"
+            },
+            {
+                "word": "Prism",
+                "count": "86"
+            },
+            {
+                "word": "Ernest",
+                "count": "82"
+            }
+        ],
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde",
+        "genre": "Classic",
+        "absCount": 8071
+    },
+    {
+        "LexicalDiversity": 5.072050801921354,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "6661"
+            },
+            {
+                "word": "said",
+                "count": "1348"
+            },
+            {
+                "word": "Joe",
+                "count": "746"
+            },
+            {
+                "word": "Mr",
+                "count": "708"
+            },
+            {
+                "word": "would",
+                "count": "581"
+            },
+            {
+                "word": "one",
+                "count": "482"
+            },
+            {
+                "word": "could",
+                "count": "482"
+            },
+            {
+                "word": "It",
+                "count": "399"
+            },
+            {
+                "word": "know",
+                "count": "391"
+            },
+            {
+                "word": "The",
+                "count": "384"
+            },
+            {
+                "word": "Miss",
+                "count": "373"
+            },
+            {
+                "word": "time",
+                "count": "370"
+            },
+            {
+                "word": "And",
+                "count": "360"
+            },
+            {
+                "word": "upon",
+                "count": "356"
+            },
+            {
+                "word": "little",
+                "count": "351"
+            }
+        ],
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "genre": "Classic",
+        "absCount": 6230
+    },
+    {
+        "LexicalDiversity": 6.809209171515819,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2933"
+            },
+            {
+                "word": "d",
+                "count": "1579"
+            },
+            {
+                "word": "The",
+                "count": "1310"
+            },
+            {
+                "word": "O",
+                "count": "599"
+            },
+            {
+                "word": "And",
+                "count": "537"
+            },
+            {
+                "word": "see",
+                "count": "394"
+            },
+            {
+                "word": "To",
+                "count": "317"
+            },
+            {
+                "word": "one",
+                "count": "308"
+            },
+            {
+                "word": "love",
+                "count": "259"
+            },
+            {
+                "word": "shall",
+                "count": "253"
+            },
+            {
+                "word": "day",
+                "count": "253"
+            },
+            {
+                "word": "life",
+                "count": "249"
+            },
+            {
+                "word": "soul",
+                "count": "241"
+            },
+            {
+                "word": "old",
+                "count": "236"
+            },
+            {
+                "word": "man",
+                "count": "230"
+            }
+        ],
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "genre": "Fiction",
+        "absCount": 11573
+    },
+    {
+        "LexicalDiversity": 10.253022726892654,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "543"
+            },
+            {
+                "word": "said",
+                "count": "456"
+            },
+            {
+                "word": "Alice",
+                "count": "398"
+            },
+            {
+                "word": "little",
+                "count": "125"
+            },
+            {
+                "word": "The",
+                "count": "119"
+            },
+            {
+                "word": "one",
+                "count": "96"
+            },
+            {
+                "word": "know",
+                "count": "87"
+            },
+            {
+                "word": "like",
+                "count": "84"
+            },
+            {
+                "word": "went",
+                "count": "83"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "Queen",
+                "count": "74"
+            },
+            {
+                "word": "could",
+                "count": "74"
+            },
+            {
+                "word": "thought",
+                "count": "74"
+            },
+            {
+                "word": "would",
+                "count": "70"
+            }
+        ],
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "genre": "Classic",
+        "absCount": 6131
+    },
+    {
+        "LexicalDiversity": 8.161947764771375,
+        "freqDist": [
+            {
+                "word": "The",
+                "count": "4029"
+            },
+            {
+                "word": "I",
+                "count": "3841"
+            },
+            {
+                "word": "one",
+                "count": "2864"
+            },
+            {
+                "word": "He",
+                "count": "2821"
+            },
+            {
+                "word": "man",
+                "count": "1949"
+            },
+            {
+                "word": "said",
+                "count": "1796"
+            },
+            {
+                "word": "It",
+                "count": "1726"
+            },
+            {
+                "word": "Marius",
+                "count": "1354"
+            },
+            {
+                "word": "Jean",
+                "count": "1227"
+            },
+            {
+                "word": "two",
+                "count": "1113"
+            },
+            {
+                "word": "Valjean",
+                "count": "1112"
+            },
+            {
+                "word": "would",
+                "count": "1032"
+            },
+            {
+                "word": "A",
+                "count": "1013"
+            },
+            {
+                "word": "Cosette",
+                "count": "1010"
+            },
+            {
+                "word": "This",
+                "count": "1009"
+            }
+        ],
+        "title": "Les Miserables",
+        "author": "Victor Hugo",
+        "genre": "Literature",
+        "absCount": 21113
+    },
+    {
+        "LexicalDiversity": 9.14328829137801,
+        "freqDist": [
+            {
+                "word": "1",
+                "count": "1377"
+            },
+            {
+                "word": "_______",
+                "count": "1096"
+            },
+            {
+                "word": "The",
+                "count": "982"
+            },
+            {
+                "word": "steam",
+                "count": "884"
+            },
+            {
+                "word": "boiler",
+                "count": "844"
+            },
+            {
+                "word": "2",
+                "count": "792"
+            },
+            {
+                "word": "water",
+                "count": "723"
+            },
+            {
+                "word": "0",
+                "count": "672"
+            },
+            {
+                "word": "per",
+                "count": "659"
+            },
+            {
+                "word": "3",
+                "count": "630"
+            },
+            {
+                "word": "4",
+                "count": "596"
+            },
+            {
+                "word": "heat",
+                "count": "556"
+            },
+            {
+                "word": "temperature",
+                "count": "498"
+            },
+            {
+                "word": "may",
+                "count": "485"
+            },
+            {
+                "word": "5",
+                "count": "469"
+            }
+        ],
+        "title": "Steam, Its Generation and Use",
+        "author": "Babcock & Wilcox Co.",
+        "genre": "Classic",
+        "absCount": 6665
+    },
+    {
+        "LexicalDiversity": 24.612033759869316,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4846"
+            },
+            {
+                "word": "The",
+                "count": "591"
+            },
+            {
+                "word": "He",
+                "count": "585"
+            },
+            {
+                "word": "said",
+                "count": "568"
+            },
+            {
+                "word": "could",
+                "count": "489"
+            },
+            {
+                "word": "one",
+                "count": "471"
+            },
+            {
+                "word": "us",
+                "count": "465"
+            },
+            {
+                "word": "must",
+                "count": "444"
+            },
+            {
+                "word": "would",
+                "count": "427"
+            },
+            {
+                "word": "shall",
+                "count": "424"
+            },
+            {
+                "word": "know",
+                "count": "392"
+            },
+            {
+                "word": "may",
+                "count": "391"
+            },
+            {
+                "word": "time",
+                "count": "386"
+            },
+            {
+                "word": "It",
+                "count": "381"
+            },
+            {
+                "word": "see",
+                "count": "378"
+            }
+        ],
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Literature",
+        "absCount": 1808
+    },
+    {
+        "LexicalDiversity": 7.2845425183372186,
+        "freqDist": [
+            {
+                "word": "The",
+                "count": "696"
+            },
+            {
+                "word": "Beowulf",
+                "count": "266"
+            },
+            {
+                "word": "I",
+                "count": "240"
+            },
+            {
+                "word": "He",
+                "count": "158"
+            },
+            {
+                "word": "1",
+                "count": "144"
+            },
+            {
+                "word": "To",
+                "count": "138"
+            },
+            {
+                "word": "Hrothgar",
+                "count": "134"
+            },
+            {
+                "word": "battle",
+                "count": "131"
+            },
+            {
+                "word": "one",
+                "count": "129"
+            },
+            {
+                "word": "A",
+                "count": "128"
+            },
+            {
+                "word": "Grendel",
+                "count": "109"
+            },
+            {
+                "word": "And",
+                "count": "94"
+            },
+            {
+                "word": "war",
+                "count": "92"
+            },
+            {
+                "word": "2",
+                "count": "91"
+            },
+            {
+                "word": "B",
+                "count": "87"
+            }
+        ],
+        "title": "Beowulf",
+        "author": "Unknown",
+        "genre": "Literature",
+        "absCount": 9405
+    },
+    {
+        "LexicalDiversity": 11.928779364971904,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "7250"
+            },
+            {
+                "word": "would",
+                "count": "646"
+            },
+            {
+                "word": "said",
+                "count": "584"
+            },
+            {
+                "word": "one",
+                "count": "563"
+            },
+            {
+                "word": "Mr",
+                "count": "544"
+            },
+            {
+                "word": "could",
+                "count": "502"
+            },
+            {
+                "word": "The",
+                "count": "448"
+            },
+            {
+                "word": "like",
+                "count": "396"
+            },
+            {
+                "word": "He",
+                "count": "385"
+            },
+            {
+                "word": "Rochester",
+                "count": "366"
+            },
+            {
+                "word": "Jane",
+                "count": "346"
+            },
+            {
+                "word": "You",
+                "count": "341"
+            },
+            {
+                "word": "It",
+                "count": "332"
+            },
+            {
+                "word": "little",
+                "count": "331"
+            },
+            {
+                "word": "must",
+                "count": "312"
+            }
+        ],
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "genre": "Literature",
+        "absCount": 3524
+    },
+    {
+        "LexicalDiversity": 5.568806297451489,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1040"
+            },
+            {
+                "word": "would",
+                "count": "181"
+            },
+            {
+                "word": "one",
+                "count": "180"
+            },
+            {
+                "word": "The",
+                "count": "180"
+            },
+            {
+                "word": "He",
+                "count": "169"
+            },
+            {
+                "word": "Mr",
+                "count": "168"
+            },
+            {
+                "word": "slave",
+                "count": "147"
+            },
+            {
+                "word": "slaves",
+                "count": "131"
+            },
+            {
+                "word": "time",
+                "count": "126"
+            },
+            {
+                "word": "upon",
+                "count": "113"
+            },
+            {
+                "word": "It",
+                "count": "112"
+            },
+            {
+                "word": "man",
+                "count": "98"
+            },
+            {
+                "word": "master",
+                "count": "95"
+            },
+            {
+                "word": "could",
+                "count": "95"
+            },
+            {
+                "word": "work",
+                "count": "94"
+            }
+        ],
+        "title": "The Narrative of the Life of Frederick Douglass",
+        "author": "Frederick Douglass",
+        "genre": "Non-Fiction",
+        "absCount": 12748
+    },
+    {
+        "LexicalDiversity": 10.384456441170489,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "3178"
+            },
+            {
+                "word": "Mr",
+                "count": "1153"
+            },
+            {
+                "word": "Emma",
+                "count": "867"
+            },
+            {
+                "word": "could",
+                "count": "826"
+            },
+            {
+                "word": "would",
+                "count": "815"
+            },
+            {
+                "word": "Mrs",
+                "count": "699"
+            },
+            {
+                "word": "Miss",
+                "count": "592"
+            },
+            {
+                "word": "must",
+                "count": "574"
+            },
+            {
+                "word": "She",
+                "count": "562"
+            },
+            {
+                "word": "Harriet",
+                "count": "506"
+            },
+            {
+                "word": "said",
+                "count": "484"
+            },
+            {
+                "word": "much",
+                "count": "479"
+            },
+            {
+                "word": "He",
+                "count": "441"
+            },
+            {
+                "word": "Weston",
+                "count": "439"
+            },
+            {
+                "word": "one",
+                "count": "415"
+            }
+        ],
+        "title": "Emma",
+        "author": "Jane Austen",
+        "genre": "Literature",
+        "absCount": 15831
+    },
+    {
+        "LexicalDiversity": 4.177720288376979,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "789"
+            },
+            {
+                "word": "said",
+                "count": "755"
+            },
+            {
+                "word": "He",
+                "count": "600"
+            },
+            {
+                "word": "Mr",
+                "count": "574"
+            },
+            {
+                "word": "The",
+                "count": "453"
+            },
+            {
+                "word": "man",
+                "count": "235"
+            },
+            {
+                "word": "She",
+                "count": "219"
+            },
+            {
+                "word": "would",
+                "count": "218"
+            },
+            {
+                "word": "one",
+                "count": "186"
+            },
+            {
+                "word": "O",
+                "count": "180"
+            },
+            {
+                "word": "little",
+                "count": "165"
+            },
+            {
+                "word": "Gabriel",
+                "count": "158"
+            },
+            {
+                "word": "old",
+                "count": "145"
+            },
+            {
+                "word": "It",
+                "count": "143"
+            },
+            {
+                "word": "like",
+                "count": "131"
+            }
+        ],
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "genre": "Classic",
+        "absCount": 28551
+    },
+    {
+        "LexicalDiversity": 9.046431526917313,
+        "freqDist": [
+            {
+                "word": "d",
+                "count": "3653"
+            },
+            {
+                "word": "I",
+                "count": "1845"
+            },
+            {
+                "word": "The",
+                "count": "955"
+            },
+            {
+                "word": "And",
+                "count": "889"
+            },
+            {
+                "word": "thou",
+                "count": "773"
+            },
+            {
+                "word": "That",
+                "count": "545"
+            },
+            {
+                "word": "Of",
+                "count": "528"
+            },
+            {
+                "word": "To",
+                "count": "431"
+            },
+            {
+                "word": "thy",
+                "count": "429"
+            },
+            {
+                "word": "thee",
+                "count": "424"
+            },
+            {
+                "word": "one",
+                "count": "413"
+            },
+            {
+                "word": "thus",
+                "count": "362"
+            },
+            {
+                "word": "As",
+                "count": "330"
+            },
+            {
+                "word": "In",
+                "count": "288"
+            },
+            {
+                "word": "But",
+                "count": "281"
+            }
+        ],
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "genre": "philosophy",
+        "absCount": 16179
+    },
+    {
+        "LexicalDiversity": 5.783998018330443,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2872"
+            },
+            {
+                "word": "could",
+                "count": "393"
+            },
+            {
+                "word": "The",
+                "count": "392"
+            },
+            {
+                "word": "upon",
+                "count": "376"
+            },
+            {
+                "word": "would",
+                "count": "370"
+            },
+            {
+                "word": "great",
+                "count": "287"
+            },
+            {
+                "word": "one",
+                "count": "267"
+            },
+            {
+                "word": "two",
+                "count": "253"
+            },
+            {
+                "word": "made",
+                "count": "227"
+            },
+            {
+                "word": "much",
+                "count": "210"
+            },
+            {
+                "word": "country",
+                "count": "204"
+            },
+            {
+                "word": "He",
+                "count": "204"
+            },
+            {
+                "word": "several",
+                "count": "177"
+            },
+            {
+                "word": "time",
+                "count": "168"
+            },
+            {
+                "word": "three",
+                "count": "166"
+            }
+        ],
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "genre": "Literature",
+        "absCount": 11208
+    },
+    {
+        "LexicalDiversity": 16.89971883786317,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "3665"
+            },
+            {
+                "word": "says",
+                "count": "622"
+            },
+            {
+                "word": "got",
+                "count": "611"
+            },
+            {
+                "word": "said",
+                "count": "483"
+            },
+            {
+                "word": "see",
+                "count": "474"
+            },
+            {
+                "word": "would",
+                "count": "394"
+            },
+            {
+                "word": "Jim",
+                "count": "386"
+            },
+            {
+                "word": "come",
+                "count": "378"
+            },
+            {
+                "word": "one",
+                "count": "365"
+            },
+            {
+                "word": "d",
+                "count": "359"
+            },
+            {
+                "word": "didn",
+                "count": "353"
+            },
+            {
+                "word": "The",
+                "count": "333"
+            },
+            {
+                "word": "get",
+                "count": "332"
+            },
+            {
+                "word": "time",
+                "count": "323"
+            },
+            {
+                "word": "Well",
+                "count": "313"
+            }
+        ],
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain (Samuel Clemens)",
+        "genre": "Literature",
+        "absCount": 9016
+    },
+    {
+        "LexicalDiversity": 6.366479696021919,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4636"
+            },
+            {
+                "word": "She",
+                "count": "669"
+            },
+            {
+                "word": "prick",
+                "count": "655"
+            },
+            {
+                "word": "could",
+                "count": "612"
+            },
+            {
+                "word": "would",
+                "count": "575"
+            },
+            {
+                "word": "dear",
+                "count": "517"
+            },
+            {
+                "word": "time",
+                "count": "474"
+            },
+            {
+                "word": "The",
+                "count": "455"
+            },
+            {
+                "word": "cunt",
+                "count": "454"
+            },
+            {
+                "word": "one",
+                "count": "451"
+            },
+            {
+                "word": "delicious",
+                "count": "448"
+            },
+            {
+                "word": "first",
+                "count": "400"
+            },
+            {
+                "word": "us",
+                "count": "398"
+            },
+            {
+                "word": "We",
+                "count": "394"
+            },
+            {
+                "word": "said",
+                "count": "341"
+            }
+        ],
+        "title": "The Romance of Lust",
+        "author": "Anonymous",
+        "genre": "Literature",
+        "absCount": 14778
+    },
+    {
+        "LexicalDiversity": 11.914709978618648,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "316"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "tm",
+                "count": "57"
+            },
+            {
+                "word": "work",
+                "count": "48"
+            },
+            {
+                "word": "1",
+                "count": "46"
+            },
+            {
+                "word": "John",
+                "count": "45"
+            },
+            {
+                "word": "It",
+                "count": "45"
+            },
+            {
+                "word": "paper",
+                "count": "35"
+            },
+            {
+                "word": "one",
+                "count": "34"
+            },
+            {
+                "word": "The",
+                "count": "32"
+            },
+            {
+                "word": "works",
+                "count": "32"
+            },
+            {
+                "word": "said",
+                "count": "30"
+            },
+            {
+                "word": "But",
+                "count": "29"
+            },
+            {
+                "word": "would",
+                "count": "27"
+            }
+        ],
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "genre": "Literature",
+        "absCount": 6074
+    },
+    {
+        "LexicalDiversity": 4.576336367132419,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "467"
+            },
+            {
+                "word": "Peter",
+                "count": "403"
+            },
+            {
+                "word": "said",
+                "count": "358"
+            },
+            {
+                "word": "Wendy",
+                "count": "357"
+            },
+            {
+                "word": "would",
+                "count": "213"
+            },
+            {
+                "word": "one",
+                "count": "204"
+            },
+            {
+                "word": "He",
+                "count": "181"
+            },
+            {
+                "word": "It",
+                "count": "174"
+            },
+            {
+                "word": "The",
+                "count": "170"
+            },
+            {
+                "word": "Hook",
+                "count": "154"
+            },
+            {
+                "word": "could",
+                "count": "142"
+            },
+            {
+                "word": "cried",
+                "count": "136"
+            },
+            {
+                "word": "John",
+                "count": "133"
+            },
+            {
+                "word": "She",
+                "count": "126"
+            },
+            {
+                "word": "time",
+                "count": "124"
+            }
+        ],
+        "title": "Peter Pan",
+        "author": "James M. Barrie",
+        "genre": "Literature",
+        "absCount": 8925
+    },
+    {
+        "LexicalDiversity": 10.063905381882348,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "646"
+            },
+            {
+                "word": "said",
+                "count": "130"
+            },
+            {
+                "word": "Utterson",
+                "count": "127"
+            },
+            {
+                "word": "Mr",
+                "count": "122"
+            },
+            {
+                "word": "The",
+                "count": "105"
+            },
+            {
+                "word": "Hyde",
+                "count": "101"
+            },
+            {
+                "word": "Jekyll",
+                "count": "98"
+            },
+            {
+                "word": "man",
+                "count": "85"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "one",
+                "count": "80"
+            },
+            {
+                "word": "lawyer",
+                "count": "72"
+            },
+            {
+                "word": "It",
+                "count": "70"
+            },
+            {
+                "word": "And",
+                "count": "65"
+            },
+            {
+                "word": "upon",
+                "count": "61"
+            }
+        ],
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "genre": "fantasy",
+        "absCount": 8441
+    },
+    {
+        "LexicalDiversity": 9.629849707966782,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "627"
+            },
+            {
+                "word": "She",
+                "count": "605"
+            },
+            {
+                "word": "The",
+                "count": "360"
+            },
+            {
+                "word": "Edna",
+                "count": "317"
+            },
+            {
+                "word": "He",
+                "count": "277"
+            },
+            {
+                "word": "upon",
+                "count": "260"
+            },
+            {
+                "word": "one",
+                "count": "249"
+            },
+            {
+                "word": "Pontellier",
+                "count": "204"
+            },
+            {
+                "word": "It",
+                "count": "198"
+            },
+            {
+                "word": "would",
+                "count": "193"
+            },
+            {
+                "word": "little",
+                "count": "182"
+            },
+            {
+                "word": "like",
+                "count": "173"
+            },
+            {
+                "word": "Mrs",
+                "count": "164"
+            },
+            {
+                "word": "said",
+                "count": "162"
+            },
+            {
+                "word": "Robert",
+                "count": "161"
+            }
+        ],
+        "title": "The Awakening and Selected Short Stories",
+        "author": "Kate Chopin",
+        "genre": "Literature",
+        "absCount": 13289
+    },
+    {
+        "LexicalDiversity": 7.357699899686114,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1153"
+            },
+            {
+                "word": "The",
+                "count": "236"
+            },
+            {
+                "word": "He",
+                "count": "213"
+            },
+            {
+                "word": "It",
+                "count": "153"
+            },
+            {
+                "word": "said",
+                "count": "132"
+            },
+            {
+                "word": "would",
+                "count": "132"
+            },
+            {
+                "word": "Kurtz",
+                "count": "122"
+            },
+            {
+                "word": "like",
+                "count": "121"
+            },
+            {
+                "word": "one",
+                "count": "120"
+            },
+            {
+                "word": "man",
+                "count": "114"
+            },
+            {
+                "word": "could",
+                "count": "110"
+            },
+            {
+                "word": "see",
+                "count": "93"
+            },
+            {
+                "word": "know",
+                "count": "89"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            }
+        ],
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "genre": "Literature",
+        "absCount": 9095
+    },
+    {
+        "LexicalDiversity": 4.29549134416088,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2004"
+            },
+            {
+                "word": "Elinor",
+                "count": "684"
+            },
+            {
+                "word": "could",
+                "count": "569"
+            },
+            {
+                "word": "Marianne",
+                "count": "566"
+            },
+            {
+                "word": "Mrs",
+                "count": "530"
+            },
+            {
+                "word": "would",
+                "count": "507"
+            },
+            {
+                "word": "said",
+                "count": "397"
+            },
+            {
+                "word": "every",
+                "count": "360"
+            },
+            {
+                "word": "one",
+                "count": "306"
+            },
+            {
+                "word": "must",
+                "count": "289"
+            },
+            {
+                "word": "But",
+                "count": "289"
+            },
+            {
+                "word": "much",
+                "count": "288"
+            },
+            {
+                "word": "sister",
+                "count": "282"
+            },
+            {
+                "word": "Edward",
+                "count": "262"
+            },
+            {
+                "word": "mother",
+                "count": "259"
+            }
+        ],
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "genre": "Literature",
+        "absCount": 9471
+    },
+    {
+        "LexicalDiversity": 18.901224025049814,
+        "freqDist": [
+            {
+                "word": "d",
+                "count": "3249"
+            },
+            {
+                "word": "The",
+                "count": "2240"
+            },
+            {
+                "word": "And",
+                "count": "2104"
+            },
+            {
+                "word": "thy",
+                "count": "819"
+            },
+            {
+                "word": "I",
+                "count": "702"
+            },
+            {
+                "word": "But",
+                "count": "540"
+            },
+            {
+                "word": "To",
+                "count": "533"
+            },
+            {
+                "word": "er",
+                "count": "443"
+            },
+            {
+                "word": "shall",
+                "count": "441"
+            },
+            {
+                "word": "arms",
+                "count": "438"
+            },
+            {
+                "word": "Hector",
+                "count": "433"
+            },
+            {
+                "word": "Jove",
+                "count": "431"
+            },
+            {
+                "word": "thus",
+                "count": "422"
+            },
+            {
+                "word": "With",
+                "count": "417"
+            },
+            {
+                "word": "He",
+                "count": "417"
+            }
+        ],
+        "title": "The Iliad of Homer",
+        "author": "Homer",
+        "genre": "adventure",
+        "absCount": 1992
+    },
+    {
+        "LexicalDiversity": 9.558013695350285,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1806"
+            },
+            {
+                "word": "said",
+                "count": "1125"
+            },
+            {
+                "word": "And",
+                "count": "1071"
+            },
+            {
+                "word": "one",
+                "count": "918"
+            },
+            {
+                "word": "may",
+                "count": "818"
+            },
+            {
+                "word": "The",
+                "count": "797"
+            },
+            {
+                "word": "good",
+                "count": "663"
+            },
+            {
+                "word": "man",
+                "count": "635"
+            },
+            {
+                "word": "would",
+                "count": "590"
+            },
+            {
+                "word": "State",
+                "count": "536"
+            },
+            {
+                "word": "must",
+                "count": "476"
+            },
+            {
+                "word": "like",
+                "count": "466"
+            },
+            {
+                "word": "But",
+                "count": "458"
+            },
+            {
+                "word": "Yes",
+                "count": "456"
+            },
+            {
+                "word": "true",
+                "count": "447"
+            }
+        ],
+        "title": "The Republic",
+        "author": "Plato",
+        "genre": "Classic",
+        "absCount": 5988
+    },
+    {
+        "LexicalDiversity": 14.158389887280459,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4104"
+            },
+            {
+                "word": "Heathcliff",
+                "count": "475"
+            },
+            {
+                "word": "would",
+                "count": "442"
+            },
+            {
+                "word": "He",
+                "count": "413"
+            },
+            {
+                "word": "Linton",
+                "count": "404"
+            },
+            {
+                "word": "Catherine",
+                "count": "379"
+            },
+            {
+                "word": "said",
+                "count": "375"
+            },
+            {
+                "word": "ll",
+                "count": "368"
+            },
+            {
+                "word": "Mr",
+                "count": "312"
+            },
+            {
+                "word": "could",
+                "count": "277"
+            },
+            {
+                "word": "The",
+                "count": "276"
+            },
+            {
+                "word": "one",
+                "count": "271"
+            },
+            {
+                "word": "And",
+                "count": "259"
+            },
+            {
+                "word": "You",
+                "count": "246"
+            },
+            {
+                "word": "It",
+                "count": "212"
+            }
+        ],
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "genre": "Literature",
+        "absCount": 4861
+    },
+    {
+        "LexicalDiversity": 9.892554670711668,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2980"
+            },
+            {
+                "word": "_",
+                "count": "2770"
+            },
+            {
+                "word": "He",
+                "count": "1250"
+            },
+            {
+                "word": "said",
+                "count": "1201"
+            },
+            {
+                "word": "The",
+                "count": "1174"
+            },
+            {
+                "word": "Mr",
+                "count": "715"
+            },
+            {
+                "word": "Bloom",
+                "count": "701"
+            },
+            {
+                "word": "A",
+                "count": "675"
+            },
+            {
+                "word": "like",
+                "count": "671"
+            },
+            {
+                "word": "one",
+                "count": "649"
+            },
+            {
+                "word": "And",
+                "count": "567"
+            },
+            {
+                "word": "O",
+                "count": "548"
+            },
+            {
+                "word": "Stephen",
+                "count": "480"
+            },
+            {
+                "word": "says",
+                "count": "469"
+            },
+            {
+                "word": "What",
+                "count": "455"
+            }
+        ],
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "genre": "Classic",
+        "absCount": 7826
+    },
+    {
+        "LexicalDiversity": 13.275939268123906,
+        "freqDist": [
+            {
+                "word": "one",
+                "count": "394"
+            },
+            {
+                "word": "man",
+                "count": "235"
+            },
+            {
+                "word": "I",
+                "count": "225"
+            },
+            {
+                "word": "The",
+                "count": "205"
+            },
+            {
+                "word": "even",
+                "count": "185"
+            },
+            {
+                "word": "also",
+                "count": "162"
+            },
+            {
+                "word": "perhaps",
+                "count": "142"
+            },
+            {
+                "word": "us",
+                "count": "136"
+            },
+            {
+                "word": "may",
+                "count": "127"
+            },
+            {
+                "word": "every",
+                "count": "127"
+            },
+            {
+                "word": "good",
+                "count": "126"
+            },
+            {
+                "word": "must",
+                "count": "123"
+            },
+            {
+                "word": "men",
+                "count": "122"
+            },
+            {
+                "word": "still",
+                "count": "122"
+            },
+            {
+                "word": "would",
+                "count": "121"
+            }
+        ],
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Nietzsche",
+        "genre": "non-Fiction",
+        "absCount": 6523
+    },
+    {
+        "LexicalDiversity": 5.214003481528557,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1501"
+            },
+            {
+                "word": "upon",
+                "count": "316"
+            },
+            {
+                "word": "The",
+                "count": "260"
+            },
+            {
+                "word": "Sir",
+                "count": "248"
+            },
+            {
+                "word": "said",
+                "count": "240"
+            },
+            {
+                "word": "one",
+                "count": "227"
+            },
+            {
+                "word": "It",
+                "count": "226"
+            },
+            {
+                "word": "man",
+                "count": "211"
+            },
+            {
+                "word": "could",
+                "count": "198"
+            },
+            {
+                "word": "He",
+                "count": "197"
+            },
+            {
+                "word": "Holmes",
+                "count": "191"
+            },
+            {
+                "word": "would",
+                "count": "188"
+            },
+            {
+                "word": "us",
+                "count": "183"
+            },
+            {
+                "word": "moor",
+                "count": "161"
+            },
+            {
+                "word": "Henry",
+                "count": "156"
+            }
+        ],
+        "title": "The Hound of the Baskervilles",
+        "author": "A. Conan Doyle",
+        "genre": "Classic",
+        "absCount": 7548
+    },
+    {
+        "LexicalDiversity": 6.641119068559702,
+        "freqDist": [
+            {
+                "word": "And",
+                "count": "156"
+            },
+            {
+                "word": "I",
+                "count": "90"
+            },
+            {
+                "word": "The",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "82"
+            },
+            {
+                "word": "Project",
+                "count": "82"
+            },
+            {
+                "word": "tm",
+                "count": "57"
+            },
+            {
+                "word": "work",
+                "count": "47"
+            },
+            {
+                "word": "1",
+                "count": "47"
+            },
+            {
+                "word": "works",
+                "count": "32"
+            },
+            {
+                "word": "THE",
+                "count": "31"
+            },
+            {
+                "word": "thee",
+                "count": "30"
+            },
+            {
+                "word": "thy",
+                "count": "29"
+            },
+            {
+                "word": "A",
+                "count": "28"
+            },
+            {
+                "word": "electronic",
+                "count": "27"
+            },
+            {
+                "word": "night",
+                "count": "26"
+            }
+        ],
+        "title": "Songs of Innocence and Songs of Experience",
+        "author": "William Blake",
+        "genre": "Fiction",
+        "absCount": 15857
+    },
+    {
+        "LexicalDiversity": 4.728706272521445,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1208"
+            },
+            {
+                "word": "said",
+                "count": "379"
+            },
+            {
+                "word": "would",
+                "count": "357"
+            },
+            {
+                "word": "George",
+                "count": "311"
+            },
+            {
+                "word": "Harris",
+                "count": "307"
+            },
+            {
+                "word": "We",
+                "count": "264"
+            },
+            {
+                "word": "It",
+                "count": "262"
+            },
+            {
+                "word": "one",
+                "count": "235"
+            },
+            {
+                "word": "us",
+                "count": "229"
+            },
+            {
+                "word": "The",
+                "count": "229"
+            },
+            {
+                "word": "boat",
+                "count": "201"
+            },
+            {
+                "word": "He",
+                "count": "187"
+            },
+            {
+                "word": "get",
+                "count": "177"
+            },
+            {
+                "word": "river",
+                "count": "165"
+            },
+            {
+                "word": "got",
+                "count": "163"
+            }
+        ],
+        "title": "Three Men in a Boat",
+        "author": "Jerome K. Jerome",
+        "genre": "Fiction",
+        "absCount": 11863
+    },
+    {
+        "LexicalDiversity": 7.517250393852462,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4401"
+            },
+            {
+                "word": "He",
+                "count": "1259"
+            },
+            {
+                "word": "Raskolnikov",
+                "count": "784"
+            },
+            {
+                "word": "And",
+                "count": "747"
+            },
+            {
+                "word": "But",
+                "count": "683"
+            },
+            {
+                "word": "You",
+                "count": "602"
+            },
+            {
+                "word": "one",
+                "count": "586"
+            },
+            {
+                "word": "The",
+                "count": "554"
+            },
+            {
+                "word": "would",
+                "count": "553"
+            },
+            {
+                "word": "know",
+                "count": "528"
+            },
+            {
+                "word": "said",
+                "count": "518"
+            },
+            {
+                "word": "It",
+                "count": "515"
+            },
+            {
+                "word": "could",
+                "count": "486"
+            },
+            {
+                "word": "What",
+                "count": "477"
+            },
+            {
+                "word": "man",
+                "count": "475"
+            }
+        ],
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Literature",
+        "absCount": 10927
+    },
+    {
+        "LexicalDiversity": 12.308448432301642,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "476"
+            },
+            {
+                "word": "Siddhartha",
+                "count": "406"
+            },
+            {
+                "word": "one",
+                "count": "230"
+            },
+            {
+                "word": "But",
+                "count": "148"
+            },
+            {
+                "word": "Govinda",
+                "count": "145"
+            },
+            {
+                "word": "time",
+                "count": "138"
+            },
+            {
+                "word": "like",
+                "count": "133"
+            },
+            {
+                "word": "He",
+                "count": "128"
+            },
+            {
+                "word": "would",
+                "count": "115"
+            },
+            {
+                "word": "also",
+                "count": "114"
+            },
+            {
+                "word": "river",
+                "count": "109"
+            },
+            {
+                "word": "saw",
+                "count": "99"
+            },
+            {
+                "word": "long",
+                "count": "97"
+            },
+            {
+                "word": "And",
+                "count": "96"
+            },
+            {
+                "word": "said",
+                "count": "95"
+            }
+        ],
+        "title": "Siddhartha",
+        "author": "Herman Hesse",
+        "genre": "Classic",
+        "absCount": 9767
+    },
+    {
+        "LexicalDiversity": 8.898183849476137,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "940"
+            },
+            {
+                "word": "said",
+                "count": "207"
+            },
+            {
+                "word": "The",
+                "count": "205"
+            },
+            {
+                "word": "upon",
+                "count": "200"
+            },
+            {
+                "word": "He",
+                "count": "174"
+            },
+            {
+                "word": "man",
+                "count": "155"
+            },
+            {
+                "word": "one",
+                "count": "152"
+            },
+            {
+                "word": "It",
+                "count": "144"
+            },
+            {
+                "word": "would",
+                "count": "117"
+            },
+            {
+                "word": "You",
+                "count": "115"
+            },
+            {
+                "word": "There",
+                "count": "101"
+            },
+            {
+                "word": "could",
+                "count": "97"
+            },
+            {
+                "word": "Holmes",
+                "count": "94"
+            },
+            {
+                "word": "Project",
+                "count": "84"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "84"
+            }
+        ],
+        "title": "A Study In Scarlet",
+        "author": "Arthur Conan Doyle",
+        "genre": "Classic",
+        "absCount": 6531
+    },
+    {
+        "LexicalDiversity": 23.082232301321238,
+        "freqDist": [
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "The",
+                "count": "62"
+            },
+            {
+                "word": "tm",
+                "count": "57"
+            },
+            {
+                "word": "one",
+                "count": "48"
+            },
+            {
+                "word": "Ichabod",
+                "count": "47"
+            },
+            {
+                "word": "1",
+                "count": "45"
+            },
+            {
+                "word": "work",
+                "count": "44"
+            },
+            {
+                "word": "He",
+                "count": "38"
+            },
+            {
+                "word": "upon",
+                "count": "36"
+            },
+            {
+                "word": "works",
+                "count": "33"
+            },
+            {
+                "word": "country",
+                "count": "30"
+            },
+            {
+                "word": "old",
+                "count": "30"
+            },
+            {
+                "word": "I",
+                "count": "28"
+            },
+            {
+                "word": "electronic",
+                "count": "27"
+            }
+        ],
+        "title": "The Legend of Sleepy Hollow",
+        "author": "Washington Irving",
+        "genre": "fantasy",
+        "absCount": 2341
+    },
+    {
+        "LexicalDiversity": 9.869248930381946,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "8387"
+            },
+            {
+                "word": "said",
+                "count": "3484"
+            },
+            {
+                "word": "The",
+                "count": "2061"
+            },
+            {
+                "word": "one",
+                "count": "1659"
+            },
+            {
+                "word": "man",
+                "count": "1409"
+            },
+            {
+                "word": "count",
+                "count": "1209"
+            },
+            {
+                "word": "would",
+                "count": "1190"
+            },
+            {
+                "word": "Monte",
+                "count": "1134"
+            },
+            {
+                "word": "Cristo",
+                "count": "1128"
+            },
+            {
+                "word": "M",
+                "count": "1093"
+            },
+            {
+                "word": "Villefort",
+                "count": "1085"
+            },
+            {
+                "word": "de",
+                "count": "1036"
+            },
+            {
+                "word": "Danglars",
+                "count": "914"
+            },
+            {
+                "word": "He",
+                "count": "907"
+            },
+            {
+                "word": "know",
+                "count": "845"
+            }
+        ],
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas, Pere",
+        "genre": "Literature",
+        "absCount": 8235
+    },
+    {
+        "LexicalDiversity": 4.42261118450022,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4540"
+            },
+            {
+                "word": "said",
+                "count": "2842"
+            },
+            {
+                "word": "The",
+                "count": "2767"
+            },
+            {
+                "word": "Pierre",
+                "count": "1963"
+            },
+            {
+                "word": "one",
+                "count": "1938"
+            },
+            {
+                "word": "He",
+                "count": "1867"
+            },
+            {
+                "word": "Prince",
+                "count": "1579"
+            },
+            {
+                "word": "would",
+                "count": "1350"
+            },
+            {
+                "word": "Natasha",
+                "count": "1213"
+            },
+            {
+                "word": "man",
+                "count": "1181"
+            },
+            {
+                "word": "Andrew",
+                "count": "1143"
+            },
+            {
+                "word": "But",
+                "count": "1116"
+            },
+            {
+                "word": "could",
+                "count": "1111"
+            },
+            {
+                "word": "And",
+                "count": "1089"
+            },
+            {
+                "word": "time",
+                "count": "924"
+            }
+        ],
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Non-Fiction",
+        "absCount": 11249
+    },
+    {
+        "LexicalDiversity": 8.81831085876508,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1015"
+            },
+            {
+                "word": "Tom",
+                "count": "809"
+            },
+            {
+                "word": "The",
+                "count": "438"
+            },
+            {
+                "word": "said",
+                "count": "352"
+            },
+            {
+                "word": "He",
+                "count": "325"
+            },
+            {
+                "word": "Huck",
+                "count": "257"
+            },
+            {
+                "word": "would",
+                "count": "234"
+            },
+            {
+                "word": "ll",
+                "count": "231"
+            },
+            {
+                "word": "time",
+                "count": "189"
+            },
+            {
+                "word": "It",
+                "count": "188"
+            },
+            {
+                "word": "one",
+                "count": "178"
+            },
+            {
+                "word": "could",
+                "count": "178"
+            },
+            {
+                "word": "Joe",
+                "count": "170"
+            },
+            {
+                "word": "got",
+                "count": "170"
+            },
+            {
+                "word": "But",
+                "count": "170"
+            }
+        ],
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain (Samuel Clemens)",
+        "genre": "Literature",
+        "absCount": 4473
+    },
+    {
+        "LexicalDiversity": 12.285796228579624,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1153"
+            },
+            {
+                "word": "The",
+                "count": "236"
+            },
+            {
+                "word": "He",
+                "count": "213"
+            },
+            {
+                "word": "It",
+                "count": "153"
+            },
+            {
+                "word": "said",
+                "count": "132"
+            },
+            {
+                "word": "would",
+                "count": "132"
+            },
+            {
+                "word": "Kurtz",
+                "count": "122"
+            },
+            {
+                "word": "like",
+                "count": "121"
+            },
+            {
+                "word": "one",
+                "count": "120"
+            },
+            {
+                "word": "man",
+                "count": "114"
+            },
+            {
+                "word": "could",
+                "count": "110"
+            },
+            {
+                "word": "see",
+                "count": "93"
+            },
+            {
+                "word": "know",
+                "count": "89"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            }
+        ],
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "genre": "Literature",
+        "absCount": 6854
+    },
+    {
+        "LexicalDiversity": 22.77861011870462,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2007"
+            },
+            {
+                "word": "one",
+                "count": "464"
+            },
+            {
+                "word": "The",
+                "count": "423"
+            },
+            {
+                "word": "man",
+                "count": "356"
+            },
+            {
+                "word": "would",
+                "count": "334"
+            },
+            {
+                "word": "like",
+                "count": "306"
+            },
+            {
+                "word": "It",
+                "count": "291"
+            },
+            {
+                "word": "may",
+                "count": "229"
+            },
+            {
+                "word": "men",
+                "count": "228"
+            },
+            {
+                "word": "life",
+                "count": "205"
+            },
+            {
+                "word": "day",
+                "count": "199"
+            },
+            {
+                "word": "house",
+                "count": "195"
+            },
+            {
+                "word": "never",
+                "count": "189"
+            },
+            {
+                "word": "could",
+                "count": "178"
+            },
+            {
+                "word": "water",
+                "count": "178"
+            }
+        ],
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "author": "Henry David Thoreau",
+        "genre": "Fiction",
+        "absCount": 3953
+    },
+    {
+        "LexicalDiversity": 3.2214192884745163,
+        "freqDist": [
+            {
+                "word": "And",
+                "count": "12846"
+            },
+            {
+                "word": "shall",
+                "count": "9762"
+            },
+            {
+                "word": "unto",
+                "count": "8942"
+            },
+            {
+                "word": "I",
+                "count": "8854"
+            },
+            {
+                "word": "LORD",
+                "count": "6649"
+            },
+            {
+                "word": "thou",
+                "count": "4890"
+            },
+            {
+                "word": "thy",
+                "count": "4451"
+            },
+            {
+                "word": "God",
+                "count": "4116"
+            },
+            {
+                "word": "said",
+                "count": "3995"
+            },
+            {
+                "word": "thee",
+                "count": "3827"
+            },
+            {
+                "word": "ye",
+                "count": "3701"
+            },
+            {
+                "word": "1",
+                "count": "2830"
+            },
+            {
+                "word": "upon",
+                "count": "2732"
+            },
+            {
+                "word": "2",
+                "count": "2725"
+            },
+            {
+                "word": "man",
+                "count": "2721"
+            }
+        ],
+        "title": "The King James Bible",
+        "author": "Anonymous",
+        "genre": "non-Fiction",
+        "absCount": 18665
+    },
+    {
+        "LexicalDiversity": 7.624933295414239,
+        "freqDist": [
+            {
+                "word": "And",
+                "count": "1202"
+            },
+            {
+                "word": "The",
+                "count": "1082"
+            },
+            {
+                "word": "God",
+                "count": "1054"
+            },
+            {
+                "word": "men",
+                "count": "945"
+            },
+            {
+                "word": "man",
+                "count": "919"
+            },
+            {
+                "word": "For",
+                "count": "866"
+            },
+            {
+                "word": "one",
+                "count": "772"
+            },
+            {
+                "word": "Law",
+                "count": "624"
+            },
+            {
+                "word": "I",
+                "count": "602"
+            },
+            {
+                "word": "may",
+                "count": "585"
+            },
+            {
+                "word": "shall",
+                "count": "575"
+            },
+            {
+                "word": "Of",
+                "count": "550"
+            },
+            {
+                "word": "But",
+                "count": "548"
+            },
+            {
+                "word": "also",
+                "count": "543"
+            },
+            {
+                "word": "therefore",
+                "count": "525"
+            }
+        ],
+        "title": "Leviathan",
+        "author": "Thomas Hobbes",
+        "genre": "Fiction",
+        "absCount": 47724
+    },
+    {
+        "LexicalDiversity": 13.216689643986701,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "6591"
+            },
+            {
+                "word": "one",
+                "count": "2166"
+            },
+            {
+                "word": "us",
+                "count": "1756"
+            },
+            {
+                "word": "upon",
+                "count": "1713"
+            },
+            {
+                "word": "man",
+                "count": "1545"
+            },
+            {
+                "word": "much",
+                "count": "1320"
+            },
+            {
+                "word": "great",
+                "count": "1208"
+            },
+            {
+                "word": "would",
+                "count": "1159"
+            },
+            {
+                "word": "The",
+                "count": "1143"
+            },
+            {
+                "word": "men",
+                "count": "1032"
+            },
+            {
+                "word": "without",
+                "count": "1029"
+            },
+            {
+                "word": "make",
+                "count": "914"
+            },
+            {
+                "word": "things",
+                "count": "908"
+            },
+            {
+                "word": "good",
+                "count": "868"
+            },
+            {
+                "word": "may",
+                "count": "837"
+            }
+        ],
+        "title": "The Essays of Montaigne",
+        "author": "Michel de Montaigne",
+        "genre": "Literature",
+        "absCount": 6519
+    },
+    {
+        "LexicalDiversity": 9.334537789822344,
+        "freqDist": [
+            {
+                "word": "The",
+                "count": "542"
+            },
+            {
+                "word": "king",
+                "count": "237"
+            },
+            {
+                "word": "one",
+                "count": "230"
+            },
+            {
+                "word": "Zeus",
+                "count": "214"
+            },
+            {
+                "word": "son",
+                "count": "212"
+            },
+            {
+                "word": "gods",
+                "count": "199"
+            },
+            {
+                "word": "He",
+                "count": "190"
+            },
+            {
+                "word": "upon",
+                "count": "181"
+            },
+            {
+                "word": "god",
+                "count": "180"
+            },
+            {
+                "word": "In",
+                "count": "179"
+            },
+            {
+                "word": "would",
+                "count": "172"
+            },
+            {
+                "word": "great",
+                "count": "157"
+            },
+            {
+                "word": "also",
+                "count": "155"
+            },
+            {
+                "word": "But",
+                "count": "152"
+            },
+            {
+                "word": "called",
+                "count": "151"
+            }
+        ],
+        "title": "Myths and Legends of Ancient Greece and Rome",
+        "author": "E.M. Berens",
+        "genre": "Non-Fiction",
+        "absCount": 12710
+    },
+    {
+        "LexicalDiversity": 1.9664136340818368,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1860"
+            },
+            {
+                "word": "said",
+                "count": "1231"
+            },
+            {
+                "word": "Mr",
+                "count": "1063"
+            },
+            {
+                "word": "Oliver",
+                "count": "830"
+            },
+            {
+                "word": "The",
+                "count": "688"
+            },
+            {
+                "word": "upon",
+                "count": "466"
+            },
+            {
+                "word": "replied",
+                "count": "464"
+            },
+            {
+                "word": "old",
+                "count": "439"
+            },
+            {
+                "word": "one",
+                "count": "433"
+            },
+            {
+                "word": "He",
+                "count": "423"
+            },
+            {
+                "word": "would",
+                "count": "407"
+            },
+            {
+                "word": "man",
+                "count": "394"
+            },
+            {
+                "word": "Bumble",
+                "count": "393"
+            },
+            {
+                "word": "Sikes",
+                "count": "350"
+            },
+            {
+                "word": "gentleman",
+                "count": "328"
+            }
+        ],
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "genre": "Literature",
+        "absCount": 18685
+    },
+    {
+        "LexicalDiversity": 5.176738705173627,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "5158"
+            },
+            {
+                "word": "could",
+                "count": "567"
+            },
+            {
+                "word": "upon",
+                "count": "507"
+            },
+            {
+                "word": "would",
+                "count": "481"
+            },
+            {
+                "word": "one",
+                "count": "427"
+            },
+            {
+                "word": "two",
+                "count": "371"
+            },
+            {
+                "word": "made",
+                "count": "351"
+            },
+            {
+                "word": "great",
+                "count": "340"
+            },
+            {
+                "word": "might",
+                "count": "301"
+            },
+            {
+                "word": "found",
+                "count": "292"
+            },
+            {
+                "word": "came",
+                "count": "284"
+            },
+            {
+                "word": "time",
+                "count": "279"
+            },
+            {
+                "word": "little",
+                "count": "271"
+            },
+            {
+                "word": "shore",
+                "count": "269"
+            },
+            {
+                "word": "much",
+                "count": "267"
+            }
+        ],
+        "title": "The Life and Adventures of Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "genre": "Literature",
+        "absCount": 13311
+    },
+    {
+        "LexicalDiversity": 4.725797407820364,
+        "freqDist": [
+            {
+                "word": "The",
+                "count": "1379"
+            },
+            {
+                "word": "life",
+                "count": "792"
+            },
+            {
+                "word": "English",
+                "count": "786"
+            },
+            {
+                "word": "work",
+                "count": "700"
+            },
+            {
+                "word": "one",
+                "count": "617"
+            },
+            {
+                "word": "first",
+                "count": "560"
+            },
+            {
+                "word": "Literature",
+                "count": "546"
+            },
+            {
+                "word": "In",
+                "count": "535"
+            },
+            {
+                "word": "like",
+                "count": "394"
+            },
+            {
+                "word": "poetry",
+                "count": "389"
+            },
+            {
+                "word": "works",
+                "count": "379"
+            },
+            {
+                "word": "great",
+                "count": "378"
+            },
+            {
+                "word": "man",
+                "count": "372"
+            },
+            {
+                "word": "men",
+                "count": "357"
+            },
+            {
+                "word": "age",
+                "count": "351"
+            }
+        ],
+        "title": "English Literature",
+        "author": "William J. Long",
+        "genre": "Literature",
+        "absCount": 29330
+    },
+    {
+        "LexicalDiversity": 9.19757176093555,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "650"
+            },
+            {
+                "word": "said",
+                "count": "430"
+            },
+            {
+                "word": "The",
+                "count": "246"
+            },
+            {
+                "word": "Mowgli",
+                "count": "220"
+            },
+            {
+                "word": "He",
+                "count": "211"
+            },
+            {
+                "word": "one",
+                "count": "164"
+            },
+            {
+                "word": "man",
+                "count": "164"
+            },
+            {
+                "word": "would",
+                "count": "160"
+            },
+            {
+                "word": "little",
+                "count": "151"
+            },
+            {
+                "word": "head",
+                "count": "135"
+            },
+            {
+                "word": "Bagheera",
+                "count": "129"
+            },
+            {
+                "word": "could",
+                "count": "126"
+            },
+            {
+                "word": "back",
+                "count": "122"
+            },
+            {
+                "word": "But",
+                "count": "114"
+            },
+            {
+                "word": "never",
+                "count": "111"
+            }
+        ],
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "genre": "adventure",
+        "absCount": 11939
+    },
+    {
+        "LexicalDiversity": 6.3912240511055725,
+        "freqDist": [
+            {
+                "word": "Gregor",
+                "count": "298"
+            },
+            {
+                "word": "would",
+                "count": "184"
+            },
+            {
+                "word": "room",
+                "count": "131"
+            },
+            {
+                "word": "could",
+                "count": "120"
+            },
+            {
+                "word": "sister",
+                "count": "101"
+            },
+            {
+                "word": "father",
+                "count": "99"
+            },
+            {
+                "word": "I",
+                "count": "90"
+            },
+            {
+                "word": "door",
+                "count": "87"
+            },
+            {
+                "word": "mother",
+                "count": "85"
+            },
+            {
+                "word": "He",
+                "count": "85"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "84"
+            },
+            {
+                "word": "Project",
+                "count": "84"
+            },
+            {
+                "word": "back",
+                "count": "82"
+            },
+            {
+                "word": "even",
+                "count": "79"
+            },
+            {
+                "word": "work",
+                "count": "74"
+            }
+        ],
+        "title": "Metamorphosis",
+        "author": "Franz Kafka",
+        "genre": "philosophy",
+        "absCount": 12666
+    },
+    {
+        "LexicalDiversity": 4.96309833415337,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "878"
+            },
+            {
+                "word": "HIGGINS",
+                "count": "408"
+            },
+            {
+                "word": "MRS",
+                "count": "174"
+            },
+            {
+                "word": "You",
+                "count": "172"
+            },
+            {
+                "word": "Higgins",
+                "count": "165"
+            },
+            {
+                "word": "LIZA",
+                "count": "160"
+            },
+            {
+                "word": "He",
+                "count": "151"
+            },
+            {
+                "word": "THE",
+                "count": "150"
+            },
+            {
+                "word": "Eliza",
+                "count": "147"
+            },
+            {
+                "word": "She",
+                "count": "139"
+            },
+            {
+                "word": "PICKERING",
+                "count": "121"
+            },
+            {
+                "word": "girl",
+                "count": "113"
+            },
+            {
+                "word": "like",
+                "count": "104"
+            },
+            {
+                "word": "What",
+                "count": "101"
+            },
+            {
+                "word": "The",
+                "count": "100"
+            }
+        ],
+        "title": "Pygmalion",
+        "author": "George Bernard Shaw",
+        "genre": "Literature",
+        "absCount": 7061
+    },
+    {
+        "LexicalDiversity": 7.477834312212604,
+        "freqDist": [
+            {
+                "word": "may",
+                "count": "467"
+            },
+            {
+                "word": "one",
+                "count": "389"
+            },
+            {
+                "word": "I",
+                "count": "385"
+            },
+            {
+                "word": "man",
+                "count": "384"
+            },
+            {
+                "word": "The",
+                "count": "343"
+            },
+            {
+                "word": "If",
+                "count": "293"
+            },
+            {
+                "word": "must",
+                "count": "244"
+            },
+            {
+                "word": "lady",
+                "count": "222"
+            },
+            {
+                "word": "good",
+                "count": "221"
+            },
+            {
+                "word": "It",
+                "count": "187"
+            },
+            {
+                "word": "never",
+                "count": "184"
+            },
+            {
+                "word": "upon",
+                "count": "178"
+            },
+            {
+                "word": "well",
+                "count": "176"
+            },
+            {
+                "word": "would",
+                "count": "173"
+            },
+            {
+                "word": "make",
+                "count": "167"
+            }
+        ],
+        "title": "The Gentlemen's Book of Etiquette and Manual of Politeness",
+        "author": "Cecil B. Hartley",
+        "genre": "Literature",
+        "absCount": 19238
+    },
+    {
+        "LexicalDiversity": 9.106184867731393,
+        "freqDist": [
+            {
+                "word": "d",
+                "count": "1354"
+            },
+            {
+                "word": "I",
+                "count": "727"
+            },
+            {
+                "word": "The",
+                "count": "307"
+            },
+            {
+                "word": "thou",
+                "count": "300"
+            },
+            {
+                "word": "And",
+                "count": "284"
+            },
+            {
+                "word": "That",
+                "count": "165"
+            },
+            {
+                "word": "one",
+                "count": "160"
+            },
+            {
+                "word": "thus",
+                "count": "159"
+            },
+            {
+                "word": "Of",
+                "count": "149"
+            },
+            {
+                "word": "To",
+                "count": "145"
+            },
+            {
+                "word": "thee",
+                "count": "143"
+            },
+            {
+                "word": "thy",
+                "count": "142"
+            },
+            {
+                "word": "He",
+                "count": "128"
+            },
+            {
+                "word": "But",
+                "count": "101"
+            },
+            {
+                "word": "er",
+                "count": "98"
+            }
+        ],
+        "title": "The Vision of Hell, Translated By The Rev. H. F. Cary,",
+        "author": "Dante Alighieri",
+        "genre": "philosophy",
+        "absCount": 5907
+    },
+    {
+        "LexicalDiversity": 11.827791235410702,
+        "freqDist": [
+            {
+                "word": "The",
+                "count": "388"
+            },
+            {
+                "word": "I",
+                "count": "333"
+            },
+            {
+                "word": "Negro",
+                "count": "283"
+            },
+            {
+                "word": "black",
+                "count": "246"
+            },
+            {
+                "word": "one",
+                "count": "213"
+            },
+            {
+                "word": "men",
+                "count": "204"
+            },
+            {
+                "word": "world",
+                "count": "171"
+            },
+            {
+                "word": "And",
+                "count": "163"
+            },
+            {
+                "word": "life",
+                "count": "160"
+            },
+            {
+                "word": "South",
+                "count": "159"
+            },
+            {
+                "word": "work",
+                "count": "157"
+            },
+            {
+                "word": "day",
+                "count": "154"
+            },
+            {
+                "word": "white",
+                "count": "149"
+            },
+            {
+                "word": "little",
+                "count": "148"
+            },
+            {
+                "word": "land",
+                "count": "137"
+            }
+        ],
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "genre": "philosophy",
+        "absCount": 5371
+    },
+    {
+        "LexicalDiversity": 9.263578497421362,
+        "freqDist": [
+            {
+                "word": "He",
+                "count": "615"
+            },
+            {
+                "word": "said",
+                "count": "613"
+            },
+            {
+                "word": "I",
+                "count": "601"
+            },
+            {
+                "word": "The",
+                "count": "520"
+            },
+            {
+                "word": "Stephen",
+                "count": "431"
+            },
+            {
+                "word": "would",
+                "count": "270"
+            },
+            {
+                "word": "like",
+                "count": "229"
+            },
+            {
+                "word": "A",
+                "count": "227"
+            },
+            {
+                "word": "God",
+                "count": "217"
+            },
+            {
+                "word": "It",
+                "count": "210"
+            },
+            {
+                "word": "one",
+                "count": "187"
+            },
+            {
+                "word": "And",
+                "count": "186"
+            },
+            {
+                "word": "soul",
+                "count": "169"
+            },
+            {
+                "word": "eyes",
+                "count": "169"
+            },
+            {
+                "word": "But",
+                "count": "166"
+            }
+        ],
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "genre": "Classic",
+        "absCount": 9969
+    },
+    {
+        "LexicalDiversity": 15.022416934509797,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "630"
+            },
+            {
+                "word": "The",
+                "count": "522"
+            },
+            {
+                "word": "King",
+                "count": "397"
+            },
+            {
+                "word": "He",
+                "count": "291"
+            },
+            {
+                "word": "upon",
+                "count": "270"
+            },
+            {
+                "word": "said",
+                "count": "267"
+            },
+            {
+                "word": "Tom",
+                "count": "258"
+            },
+            {
+                "word": "thou",
+                "count": "230"
+            },
+            {
+                "word": "thy",
+                "count": "212"
+            },
+            {
+                "word": "one",
+                "count": "179"
+            },
+            {
+                "word": "would",
+                "count": "174"
+            },
+            {
+                "word": "Hendon",
+                "count": "155"
+            },
+            {
+                "word": "little",
+                "count": "146"
+            },
+            {
+                "word": "thee",
+                "count": "134"
+            },
+            {
+                "word": "boy",
+                "count": "129"
+            }
+        ],
+        "title": "The Prince and The Pauper",
+        "author": "Mark Twain (Samuel Clemens)",
+        "genre": "Literature",
+        "absCount": 7338
+    },
+    {
+        "LexicalDiversity": 11.923875349484621,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1266"
+            },
+            {
+                "word": "The",
+                "count": "216"
+            },
+            {
+                "word": "Time",
+                "count": "122"
+            },
+            {
+                "word": "little",
+                "count": "111"
+            },
+            {
+                "word": "upon",
+                "count": "110"
+            },
+            {
+                "word": "It",
+                "count": "105"
+            },
+            {
+                "word": "came",
+                "count": "105"
+            },
+            {
+                "word": "one",
+                "count": "101"
+            },
+            {
+                "word": "But",
+                "count": "95"
+            },
+            {
+                "word": "And",
+                "count": "95"
+            },
+            {
+                "word": "could",
+                "count": "92"
+            },
+            {
+                "word": "said",
+                "count": "89"
+            },
+            {
+                "word": "saw",
+                "count": "88"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            }
+        ],
+        "title": "The Time Machine",
+        "author": "H. G. (Herbert George) Wells",
+        "genre": "fantasy",
+        "absCount": 9937
+    },
+    {
+        "LexicalDiversity": 10.415569707024847,
+        "freqDist": [
+            {
+                "word": "would",
+                "count": "1190"
+            },
+            {
+                "word": "Jurgis",
+                "count": "1117"
+            },
+            {
+                "word": "one",
+                "count": "720"
+            },
+            {
+                "word": "I",
+                "count": "614"
+            },
+            {
+                "word": "could",
+                "count": "610"
+            },
+            {
+                "word": "He",
+                "count": "564"
+            },
+            {
+                "word": "The",
+                "count": "505"
+            },
+            {
+                "word": "man",
+                "count": "477"
+            },
+            {
+                "word": "upon",
+                "count": "399"
+            },
+            {
+                "word": "It",
+                "count": "393"
+            },
+            {
+                "word": "said",
+                "count": "367"
+            },
+            {
+                "word": "work",
+                "count": "359"
+            },
+            {
+                "word": "time",
+                "count": "356"
+            },
+            {
+                "word": "And",
+                "count": "350"
+            },
+            {
+                "word": "came",
+                "count": "341"
+            }
+        ],
+        "title": "The Jungle",
+        "author": "Upton Sinclair",
+        "genre": "history",
+        "absCount": 10484
+    },
+    {
+        "LexicalDiversity": 10.951249858613279,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2570"
+            },
+            {
+                "word": "The",
+                "count": "284"
+            },
+            {
+                "word": "could",
+                "count": "269"
+            },
+            {
+                "word": "would",
+                "count": "259"
+            },
+            {
+                "word": "time",
+                "count": "250"
+            },
+            {
+                "word": "one",
+                "count": "249"
+            },
+            {
+                "word": "us",
+                "count": "248"
+            },
+            {
+                "word": "Mr",
+                "count": "230"
+            },
+            {
+                "word": "much",
+                "count": "206"
+            },
+            {
+                "word": "ship",
+                "count": "197"
+            },
+            {
+                "word": "board",
+                "count": "192"
+            },
+            {
+                "word": "man",
+                "count": "188"
+            },
+            {
+                "word": "great",
+                "count": "179"
+            },
+            {
+                "word": "people",
+                "count": "176"
+            },
+            {
+                "word": "many",
+                "count": "174"
+            }
+        ],
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African",
+        "author": "Olaudah Equiano",
+        "genre": "Non-Fiction",
+        "absCount": 9682
+    },
+    {
+        "LexicalDiversity": 13.67129004541549,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1968"
+            },
+            {
+                "word": "said",
+                "count": "323"
+            },
+            {
+                "word": "The",
+                "count": "307"
+            },
+            {
+                "word": "man",
+                "count": "258"
+            },
+            {
+                "word": "one",
+                "count": "255"
+            },
+            {
+                "word": "ll",
+                "count": "231"
+            },
+            {
+                "word": "Silver",
+                "count": "215"
+            },
+            {
+                "word": "And",
+                "count": "205"
+            },
+            {
+                "word": "like",
+                "count": "204"
+            },
+            {
+                "word": "captain",
+                "count": "187"
+            },
+            {
+                "word": "could",
+                "count": "174"
+            },
+            {
+                "word": "us",
+                "count": "167"
+            },
+            {
+                "word": "would",
+                "count": "164"
+            },
+            {
+                "word": "upon",
+                "count": "154"
+            },
+            {
+                "word": "doctor",
+                "count": "151"
+            }
+        ],
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "genre": "Classic",
+        "absCount": 5569
+    },
+    {
+        "LexicalDiversity": 6.3486306109238635,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "954"
+            },
+            {
+                "word": "Nora",
+                "count": "688"
+            },
+            {
+                "word": "Helmer",
+                "count": "308"
+            },
+            {
+                "word": "Mrs",
+                "count": "244"
+            },
+            {
+                "word": "Linde",
+                "count": "215"
+            },
+            {
+                "word": "Krogstad",
+                "count": "158"
+            },
+            {
+                "word": "Yes",
+                "count": "150"
+            },
+            {
+                "word": "Rank",
+                "count": "146"
+            },
+            {
+                "word": "You",
+                "count": "141"
+            },
+            {
+                "word": "But",
+                "count": "129"
+            },
+            {
+                "word": "Torvald",
+                "count": "126"
+            },
+            {
+                "word": "must",
+                "count": "117"
+            },
+            {
+                "word": "No",
+                "count": "113"
+            },
+            {
+                "word": "It",
+                "count": "110"
+            },
+            {
+                "word": "What",
+                "count": "106"
+            }
+        ],
+        "title": "A Doll's House",
+        "author": "Henrik Ibsen",
+        "genre": "Literature",
+        "absCount": 11377
+    },
+    {
+        "LexicalDiversity": 8.43748088646048,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1790"
+            },
+            {
+                "word": "Poirot",
+                "count": "412"
+            },
+            {
+                "word": "Inglethorp",
+                "count": "335"
+            },
+            {
+                "word": "said",
+                "count": "254"
+            },
+            {
+                "word": "The",
+                "count": "238"
+            },
+            {
+                "word": "He",
+                "count": "236"
+            },
+            {
+                "word": "Mrs",
+                "count": "234"
+            },
+            {
+                "word": "It",
+                "count": "212"
+            },
+            {
+                "word": "one",
+                "count": "203"
+            },
+            {
+                "word": "You",
+                "count": "188"
+            },
+            {
+                "word": "John",
+                "count": "187"
+            },
+            {
+                "word": "But",
+                "count": "186"
+            },
+            {
+                "word": "Mr",
+                "count": "181"
+            },
+            {
+                "word": "would",
+                "count": "180"
+            },
+            {
+                "word": "She",
+                "count": "165"
+            }
+        ],
+        "title": "The Mysterious Affair at Styles",
+        "author": "Agatha Christie",
+        "genre": "Fiction",
+        "absCount": 8277
+    },
+    {
+        "LexicalDiversity": 8.312495004510213,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "557"
+            },
+            {
+                "word": "Candide",
+                "count": "387"
+            },
+            {
+                "word": "said",
+                "count": "318"
+            },
+            {
+                "word": "The",
+                "count": "218"
+            },
+            {
+                "word": "one",
+                "count": "141"
+            },
+            {
+                "word": "Cunegonde",
+                "count": "131"
+            },
+            {
+                "word": "two",
+                "count": "118"
+            },
+            {
+                "word": "Martin",
+                "count": "111"
+            },
+            {
+                "word": "Pangloss",
+                "count": "100"
+            },
+            {
+                "word": "He",
+                "count": "93"
+            },
+            {
+                "word": "us",
+                "count": "87"
+            },
+            {
+                "word": "old",
+                "count": "83"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "Cacambo",
+                "count": "83"
+            }
+        ],
+        "title": "Candide",
+        "author": "Voltaire",
+        "genre": "Literature",
+        "absCount": 7280
+    },
+    {
+        "LexicalDiversity": 8.33901326482462,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "22225"
+            },
+            {
+                "word": "d",
+                "count": "8954"
+            },
+            {
+                "word": "And",
+                "count": "7457"
+            },
+            {
+                "word": "thou",
+                "count": "4594"
+            },
+            {
+                "word": "The",
+                "count": "4041"
+            },
+            {
+                "word": "thy",
+                "count": "3634"
+            },
+            {
+                "word": "To",
+                "count": "3436"
+            },
+            {
+                "word": "thee",
+                "count": "3162"
+            },
+            {
+                "word": "shall",
+                "count": "3130"
+            },
+            {
+                "word": "That",
+                "count": "2984"
+            },
+            {
+                "word": "But",
+                "count": "2613"
+            },
+            {
+                "word": "What",
+                "count": "2549"
+            },
+            {
+                "word": "ll",
+                "count": "2409"
+            },
+            {
+                "word": "O",
+                "count": "2315"
+            },
+            {
+                "word": "good",
+                "count": "2282"
+            }
+        ],
+        "title": "The Complete Works of William Shakespeare",
+        "author": "William Shakespeare",
+        "genre": "Classic",
+        "absCount": 6362
+    },
+    {
+        "LexicalDiversity": 13.08748478571886,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1577"
+            },
+            {
+                "word": "d",
+                "count": "1103"
+            },
+            {
+                "word": "one",
+                "count": "273"
+            },
+            {
+                "word": "The",
+                "count": "261"
+            },
+            {
+                "word": "would",
+                "count": "198"
+            },
+            {
+                "word": "He",
+                "count": "193"
+            },
+            {
+                "word": "time",
+                "count": "182"
+            },
+            {
+                "word": "great",
+                "count": "166"
+            },
+            {
+                "word": "good",
+                "count": "155"
+            },
+            {
+                "word": "made",
+                "count": "155"
+            },
+            {
+                "word": "much",
+                "count": "144"
+            },
+            {
+                "word": "might",
+                "count": "142"
+            },
+            {
+                "word": "us",
+                "count": "133"
+            },
+            {
+                "word": "little",
+                "count": "133"
+            },
+            {
+                "word": "first",
+                "count": "128"
+            }
+        ],
+        "title": "Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "genre": "history",
+        "absCount": 6129
+    },
+    {
+        "LexicalDiversity": 3.1579968259566216,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2063"
+            },
+            {
+                "word": "The",
+                "count": "545"
+            },
+            {
+                "word": "upon",
+                "count": "489"
+            },
+            {
+                "word": "one",
+                "count": "268"
+            },
+            {
+                "word": "It",
+                "count": "247"
+            },
+            {
+                "word": "could",
+                "count": "215"
+            },
+            {
+                "word": "would",
+                "count": "181"
+            },
+            {
+                "word": "said",
+                "count": "180"
+            },
+            {
+                "word": "And",
+                "count": "179"
+            },
+            {
+                "word": "In",
+                "count": "168"
+            },
+            {
+                "word": "But",
+                "count": "146"
+            },
+            {
+                "word": "even",
+                "count": "144"
+            },
+            {
+                "word": "man",
+                "count": "131"
+            },
+            {
+                "word": "long",
+                "count": "129"
+            },
+            {
+                "word": "made",
+                "count": "118"
+            }
+        ],
+        "title": "The Works of Edgar Allan Poe",
+        "author": "Edgar Allan Poe",
+        "genre": "history",
+        "absCount": 35818
+    },
+    {
+        "LexicalDiversity": 10.589538251831659,
+        "freqDist": [
+            {
+                "word": "Buck",
+                "count": "360"
+            },
+            {
+                "word": "He",
+                "count": "198"
+            },
+            {
+                "word": "The",
+                "count": "182"
+            },
+            {
+                "word": "dogs",
+                "count": "118"
+            },
+            {
+                "word": "one",
+                "count": "103"
+            },
+            {
+                "word": "Thornton",
+                "count": "102"
+            },
+            {
+                "word": "man",
+                "count": "92"
+            },
+            {
+                "word": "It",
+                "count": "84"
+            },
+            {
+                "word": "back",
+                "count": "84"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "could",
+                "count": "81"
+            },
+            {
+                "word": "upon",
+                "count": "79"
+            },
+            {
+                "word": "They",
+                "count": "77"
+            },
+            {
+                "word": "dog",
+                "count": "76"
+            }
+        ],
+        "title": "The Call of the Wild",
+        "author": "Jack London",
+        "genre": "Literature",
+        "absCount": 9944
+    },
+    {
+        "LexicalDiversity": 10.149056490436186,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1124"
+            },
+            {
+                "word": "Anne",
+                "count": "497"
+            },
+            {
+                "word": "could",
+                "count": "445"
+            },
+            {
+                "word": "would",
+                "count": "351"
+            },
+            {
+                "word": "She",
+                "count": "327"
+            },
+            {
+                "word": "Captain",
+                "count": "297"
+            },
+            {
+                "word": "Mrs",
+                "count": "291"
+            },
+            {
+                "word": "Elliot",
+                "count": "288"
+            },
+            {
+                "word": "Mr",
+                "count": "256"
+            },
+            {
+                "word": "must",
+                "count": "238"
+            },
+            {
+                "word": "He",
+                "count": "225"
+            },
+            {
+                "word": "one",
+                "count": "223"
+            },
+            {
+                "word": "The",
+                "count": "221"
+            },
+            {
+                "word": "Wentworth",
+                "count": "218"
+            },
+            {
+                "word": "much",
+                "count": "206"
+            }
+        ],
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "genre": "Literature",
+        "absCount": 11827
+    },
+    {
+        "LexicalDiversity": 14.062383496955388,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "366"
+            },
+            {
+                "word": "Scrooge",
+                "count": "361"
+            },
+            {
+                "word": "said",
+                "count": "221"
+            },
+            {
+                "word": "The",
+                "count": "160"
+            },
+            {
+                "word": "upon",
+                "count": "118"
+            },
+            {
+                "word": "He",
+                "count": "114"
+            },
+            {
+                "word": "It",
+                "count": "108"
+            },
+            {
+                "word": "one",
+                "count": "101"
+            },
+            {
+                "word": "Ghost",
+                "count": "92"
+            },
+            {
+                "word": "Christmas",
+                "count": "88"
+            },
+            {
+                "word": "would",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Spirit",
+                "count": "81"
+            },
+            {
+                "word": "man",
+                "count": "75"
+            }
+        ],
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens",
+        "genre": "Literature",
+        "absCount": 5658
+    },
+    {
+        "LexicalDiversity": 6.6519197345552215,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "8377"
+            },
+            {
+                "word": "The",
+                "count": "2842"
+            },
+            {
+                "word": "He",
+                "count": "2659"
+            },
+            {
+                "word": "one",
+                "count": "2276"
+            },
+            {
+                "word": "She",
+                "count": "1569"
+            },
+            {
+                "word": "would",
+                "count": "1511"
+            },
+            {
+                "word": "said",
+                "count": "1504"
+            },
+            {
+                "word": "And",
+                "count": "1219"
+            },
+            {
+                "word": "little",
+                "count": "1183"
+            },
+            {
+                "word": "It",
+                "count": "1173"
+            },
+            {
+                "word": "like",
+                "count": "1137"
+            },
+            {
+                "word": "man",
+                "count": "1077"
+            },
+            {
+                "word": "two",
+                "count": "1021"
+            },
+            {
+                "word": "Then",
+                "count": "996"
+            },
+            {
+                "word": "But",
+                "count": "981"
+            }
+        ],
+        "title": "Maupassant Original Short Stories (180)",
+        "author": "Guy de Maupassant",
+        "genre": "Fiction",
+        "absCount": 6736
+    },
+    {
+        "LexicalDiversity": 13.45932242452178,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "11231"
+            },
+            {
+                "word": "said",
+                "count": "1933"
+            },
+            {
+                "word": "She",
+                "count": "1194"
+            },
+            {
+                "word": "one",
+                "count": "1140"
+            },
+            {
+                "word": "cunt",
+                "count": "952"
+            },
+            {
+                "word": "went",
+                "count": "934"
+            },
+            {
+                "word": "would",
+                "count": "900"
+            },
+            {
+                "word": "woman",
+                "count": "787"
+            },
+            {
+                "word": "got",
+                "count": "735"
+            },
+            {
+                "word": "prick",
+                "count": "709"
+            },
+            {
+                "word": "The",
+                "count": "708"
+            },
+            {
+                "word": "could",
+                "count": "695"
+            },
+            {
+                "word": "bed",
+                "count": "665"
+            },
+            {
+                "word": "go",
+                "count": "602"
+            },
+            {
+                "word": "time",
+                "count": "599"
+            }
+        ],
+        "title": "MY SECRET LIFE",
+        "author": "Leanne Waters",
+        "genre": "non-Fiction",
+        "absCount": 5256
+    },
+    {
+        "LexicalDiversity": 3.5853139051354,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2849"
+            },
+            {
+                "word": "The",
+                "count": "297"
+            },
+            {
+                "word": "could",
+                "count": "192"
+            },
+            {
+                "word": "one",
+                "count": "188"
+            },
+            {
+                "word": "would",
+                "count": "183"
+            },
+            {
+                "word": "My",
+                "count": "141"
+            },
+            {
+                "word": "But",
+                "count": "138"
+            },
+            {
+                "word": "father",
+                "count": "134"
+            },
+            {
+                "word": "man",
+                "count": "133"
+            },
+            {
+                "word": "He",
+                "count": "131"
+            },
+            {
+                "word": "upon",
+                "count": "126"
+            },
+            {
+                "word": "yet",
+                "count": "115"
+            },
+            {
+                "word": "life",
+                "count": "113"
+            },
+            {
+                "word": "may",
+                "count": "108"
+            },
+            {
+                "word": "first",
+                "count": "108"
+            }
+        ],
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft (Godwin) Shelley",
+        "genre": "Literature",
+        "absCount": 21210
+    },
+    {
+        "LexicalDiversity": 3.3962008391918617,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "6651"
+            },
+            {
+                "word": "Don",
+                "count": "2661"
+            },
+            {
+                "word": "said",
+                "count": "2620"
+            },
+            {
+                "word": "Quixote",
+                "count": "2188"
+            },
+            {
+                "word": "Sancho",
+                "count": "2145"
+            },
+            {
+                "word": "one",
+                "count": "1593"
+            },
+            {
+                "word": "would",
+                "count": "1239"
+            },
+            {
+                "word": "thou",
+                "count": "1140"
+            },
+            {
+                "word": "The",
+                "count": "979"
+            },
+            {
+                "word": "say",
+                "count": "888"
+            },
+            {
+                "word": "good",
+                "count": "866"
+            },
+            {
+                "word": "may",
+                "count": "813"
+            },
+            {
+                "word": "thee",
+                "count": "763"
+            },
+            {
+                "word": "see",
+                "count": "748"
+            },
+            {
+                "word": "without",
+                "count": "722"
+            }
+        ],
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra",
+        "genre": "Classic",
+        "absCount": 11024
+    },
+    {
+        "LexicalDiversity": 3.726381556818205,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "949"
+            },
+            {
+                "word": "Percy",
+                "count": "115"
+            },
+            {
+                "word": "little",
+                "count": "113"
+            },
+            {
+                "word": "one",
+                "count": "103"
+            },
+            {
+                "word": "could",
+                "count": "100"
+            },
+            {
+                "word": "Oh",
+                "count": "98"
+            },
+            {
+                "word": "Mamma",
+                "count": "96"
+            },
+            {
+                "word": "like",
+                "count": "96"
+            },
+            {
+                "word": "love",
+                "count": "92"
+            },
+            {
+                "word": "must",
+                "count": "85"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "dear",
+                "count": "78"
+            },
+            {
+                "word": "boy",
+                "count": "77"
+            },
+            {
+                "word": "feel",
+                "count": "75"
+            }
+        ],
+        "title": "Forbidden Fruit",
+        "author": "Anonymous",
+        "genre": "Romance",
+        "absCount": 18501
+    },
+    {
+        "LexicalDiversity": 10.415970996517673,
+        "freqDist": [
+            {
+                "word": "Fogg",
+                "count": "608"
+            },
+            {
+                "word": "The",
+                "count": "518"
+            },
+            {
+                "word": "Passepartout",
+                "count": "398"
+            },
+            {
+                "word": "Mr",
+                "count": "389"
+            },
+            {
+                "word": "I",
+                "count": "368"
+            },
+            {
+                "word": "would",
+                "count": "270"
+            },
+            {
+                "word": "Fix",
+                "count": "245"
+            },
+            {
+                "word": "Phileas",
+                "count": "220"
+            },
+            {
+                "word": "He",
+                "count": "217"
+            },
+            {
+                "word": "said",
+                "count": "191"
+            },
+            {
+                "word": "It",
+                "count": "171"
+            },
+            {
+                "word": "one",
+                "count": "162"
+            },
+            {
+                "word": "could",
+                "count": "137"
+            },
+            {
+                "word": "Aouda",
+                "count": "136"
+            },
+            {
+                "word": "But",
+                "count": "134"
+            }
+        ],
+        "title": "Around the World in 80 Days",
+        "author": "Jules Verne",
+        "genre": "adventure",
+        "absCount": 4367
+    },
+    {
+        "LexicalDiversity": 10.137806322878344,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1749"
+            },
+            {
+                "word": "little",
+                "count": "182"
+            },
+            {
+                "word": "It",
+                "count": "157"
+            },
+            {
+                "word": "She",
+                "count": "148"
+            },
+            {
+                "word": "could",
+                "count": "138"
+            },
+            {
+                "word": "He",
+                "count": "130"
+            },
+            {
+                "word": "The",
+                "count": "130"
+            },
+            {
+                "word": "see",
+                "count": "109"
+            },
+            {
+                "word": "Mrs",
+                "count": "108"
+            },
+            {
+                "word": "Grose",
+                "count": "105"
+            },
+            {
+                "word": "one",
+                "count": "104"
+            },
+            {
+                "word": "would",
+                "count": "102"
+            },
+            {
+                "word": "made",
+                "count": "101"
+            },
+            {
+                "word": "But",
+                "count": "100"
+            },
+            {
+                "word": "never",
+                "count": "90"
+            }
+        ],
+        "title": "The Turn of the Screw",
+        "author": "Henry James",
+        "genre": "Literature",
+        "absCount": 8129
+    },
+    {
+        "LexicalDiversity": 9.449987483460287,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "489"
+            },
+            {
+                "word": "Ethan",
+                "count": "226"
+            },
+            {
+                "word": "He",
+                "count": "186"
+            },
+            {
+                "word": "Mattie",
+                "count": "165"
+            },
+            {
+                "word": "The",
+                "count": "156"
+            },
+            {
+                "word": "Zeena",
+                "count": "142"
+            },
+            {
+                "word": "She",
+                "count": "137"
+            },
+            {
+                "word": "said",
+                "count": "116"
+            },
+            {
+                "word": "back",
+                "count": "108"
+            },
+            {
+                "word": "It",
+                "count": "92"
+            },
+            {
+                "word": "like",
+                "count": "88"
+            },
+            {
+                "word": "Project",
+                "count": "83"
+            },
+            {
+                "word": "Gutenberg",
+                "count": "83"
+            },
+            {
+                "word": "could",
+                "count": "81"
+            },
+            {
+                "word": "one",
+                "count": "79"
+            }
+        ],
+        "title": "Ethan Frome",
+        "author": "Edith Wharton",
+        "genre": "Romance",
+        "absCount": 5285
+    },
+    {
+        "LexicalDiversity": 12.059260593506552,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "8007"
+            },
+            {
+                "word": "He",
+                "count": "2039"
+            },
+            {
+                "word": "one",
+                "count": "1523"
+            },
+            {
+                "word": "And",
+                "count": "1355"
+            },
+            {
+                "word": "But",
+                "count": "1330"
+            },
+            {
+                "word": "Alyosha",
+                "count": "1245"
+            },
+            {
+                "word": "The",
+                "count": "1195"
+            },
+            {
+                "word": "would",
+                "count": "1056"
+            },
+            {
+                "word": "said",
+                "count": "994"
+            },
+            {
+                "word": "You",
+                "count": "961"
+            },
+            {
+                "word": "It",
+                "count": "925"
+            },
+            {
+                "word": "Mitya",
+                "count": "923"
+            },
+            {
+                "word": "man",
+                "count": "898"
+            },
+            {
+                "word": "know",
+                "count": "843"
+            },
+            {
+                "word": "though",
+                "count": "737"
+            }
+        ],
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "genre": "Literature",
+        "absCount": 5356
+    },
+    {
+        "LexicalDiversity": 3.3313061538285007,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "647"
+            },
+            {
+                "word": "Dorothy",
+                "count": "368"
+            },
+            {
+                "word": "said",
+                "count": "332"
+            },
+            {
+                "word": "The",
+                "count": "246"
+            },
+            {
+                "word": "Scarecrow",
+                "count": "225"
+            },
+            {
+                "word": "Woodman",
+                "count": "182"
+            },
+            {
+                "word": "Lion",
+                "count": "180"
+            },
+            {
+                "word": "Oz",
+                "count": "166"
+            },
+            {
+                "word": "little",
+                "count": "138"
+            },
+            {
+                "word": "But",
+                "count": "128"
+            },
+            {
+                "word": "Witch",
+                "count": "122"
+            },
+            {
+                "word": "could",
+                "count": "121"
+            },
+            {
+                "word": "one",
+                "count": "119"
+            },
+            {
+                "word": "Tin",
+                "count": "117"
+            },
+            {
+                "word": "asked",
+                "count": "114"
+            }
+        ],
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "genre": "Classic",
+        "absCount": 14516
+    },
+    {
+        "LexicalDiversity": 7.560306909406497,
+        "freqDist": [
+            {
+                "word": "d",
+                "count": "1820"
+            },
+            {
+                "word": "I",
+                "count": "593"
+            },
+            {
+                "word": "And",
+                "count": "587"
+            },
+            {
+                "word": "Of",
+                "count": "562"
+            },
+            {
+                "word": "n",
+                "count": "470"
+            },
+            {
+                "word": "To",
+                "count": "466"
+            },
+            {
+                "word": "thir",
+                "count": "437"
+            },
+            {
+                "word": "The",
+                "count": "423"
+            },
+            {
+                "word": "Heav",
+                "count": "410"
+            },
+            {
+                "word": "thou",
+                "count": "385"
+            },
+            {
+                "word": "thy",
+                "count": "376"
+            },
+            {
+                "word": "thee",
+                "count": "343"
+            },
+            {
+                "word": "In",
+                "count": "278"
+            },
+            {
+                "word": "With",
+                "count": "276"
+            },
+            {
+                "word": "God",
+                "count": "249"
+            }
+        ],
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "genre": "Classic",
+        "absCount": 3833
+    },
+    {
+        "LexicalDiversity": 13.097404511859134,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "4477"
+            },
+            {
+                "word": "said",
+                "count": "2730"
+            },
+            {
+                "word": "Levin",
+                "count": "1616"
+            },
+            {
+                "word": "He",
+                "count": "1319"
+            },
+            {
+                "word": "one",
+                "count": "1161"
+            },
+            {
+                "word": "The",
+                "count": "1152"
+            },
+            {
+                "word": "But",
+                "count": "1152"
+            },
+            {
+                "word": "And",
+                "count": "1096"
+            },
+            {
+                "word": "would",
+                "count": "1029"
+            },
+            {
+                "word": "could",
+                "count": "960"
+            },
+            {
+                "word": "She",
+                "count": "889"
+            },
+            {
+                "word": "Vronsky",
+                "count": "862"
+            },
+            {
+                "word": "Anna",
+                "count": "825"
+            },
+            {
+                "word": "know",
+                "count": "675"
+            },
+            {
+                "word": "Kitty",
+                "count": "672"
+            }
+        ],
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "genre": "Romance",
+        "absCount": 12883
+    },
+    {
+        "LexicalDiversity": 3.4638079156847827,
+        "freqDist": [
+            {
+                "word": "d",
+                "count": "1957"
+            },
+            {
+                "word": "And",
+                "count": "1679"
+            },
+            {
+                "word": "I",
+                "count": "1256"
+            },
+            {
+                "word": "The",
+                "count": "1020"
+            },
+            {
+                "word": "But",
+                "count": "773"
+            },
+            {
+                "word": "A",
+                "count": "497"
+            },
+            {
+                "word": "Of",
+                "count": "489"
+            },
+            {
+                "word": "To",
+                "count": "457"
+            },
+            {
+                "word": "like",
+                "count": "434"
+            },
+            {
+                "word": "one",
+                "count": "369"
+            },
+            {
+                "word": "Juan",
+                "count": "362"
+            },
+            {
+                "word": "er",
+                "count": "344"
+            },
+            {
+                "word": "For",
+                "count": "342"
+            },
+            {
+                "word": "In",
+                "count": "314"
+            },
+            {
+                "word": "much",
+                "count": "298"
+            }
+        ],
+        "title": "Don Juan",
+        "author": "Lord Byron",
+        "genre": "Classic",
+        "absCount": 14934
+    },
+    {
+        "LexicalDiversity": 9.923863029717568,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1694"
+            },
+            {
+                "word": "He",
+                "count": "499"
+            },
+            {
+                "word": "The",
+                "count": "425"
+            },
+            {
+                "word": "Dorian",
+                "count": "418"
+            },
+            {
+                "word": "one",
+                "count": "403"
+            },
+            {
+                "word": "It",
+                "count": "384"
+            },
+            {
+                "word": "You",
+                "count": "370"
+            },
+            {
+                "word": "would",
+                "count": "303"
+            },
+            {
+                "word": "said",
+                "count": "262"
+            },
+            {
+                "word": "Lord",
+                "count": "245"
+            },
+            {
+                "word": "Henry",
+                "count": "236"
+            },
+            {
+                "word": "life",
+                "count": "221"
+            },
+            {
+                "word": "like",
+                "count": "207"
+            },
+            {
+                "word": "Gray",
+                "count": "203"
+            },
+            {
+                "word": "But",
+                "count": "182"
+            }
+        ],
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "fantasy",
+        "absCount": 15615
+    },
+    {
+        "LexicalDiversity": 10.231669735248653,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "1471"
+            },
+            {
+                "word": "The",
+                "count": "480"
+            },
+            {
+                "word": "would",
+                "count": "368"
+            },
+            {
+                "word": "one",
+                "count": "269"
+            },
+            {
+                "word": "He",
+                "count": "249"
+            },
+            {
+                "word": "upon",
+                "count": "237"
+            },
+            {
+                "word": "time",
+                "count": "226"
+            },
+            {
+                "word": "THE",
+                "count": "221"
+            },
+            {
+                "word": "said",
+                "count": "212"
+            },
+            {
+                "word": "It",
+                "count": "203"
+            },
+            {
+                "word": "Epps",
+                "count": "198"
+            },
+            {
+                "word": "could",
+                "count": "185"
+            },
+            {
+                "word": "man",
+                "count": "184"
+            },
+            {
+                "word": "day",
+                "count": "172"
+            },
+            {
+                "word": "slave",
+                "count": "146"
+            }
+        ],
+        "title": "Twelve Years a Slave",
+        "author": "Solomon Northup",
+        "genre": "Non-Fiction",
+        "absCount": 10392
+    },
+    {
+        "LexicalDiversity": 9.671023859274017,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "497"
+            },
+            {
+                "word": "Hester",
+                "count": "401"
+            },
+            {
+                "word": "The",
+                "count": "317"
+            },
+            {
+                "word": "would",
+                "count": "274"
+            },
+            {
+                "word": "Pearl",
+                "count": "247"
+            },
+            {
+                "word": "It",
+                "count": "245"
+            },
+            {
+                "word": "little",
+                "count": "228"
+            },
+            {
+                "word": "one",
+                "count": "227"
+            },
+            {
+                "word": "child",
+                "count": "219"
+            },
+            {
+                "word": "old",
+                "count": "201"
+            },
+            {
+                "word": "man",
+                "count": "196"
+            },
+            {
+                "word": "thou",
+                "count": "193"
+            },
+            {
+                "word": "But",
+                "count": "185"
+            },
+            {
+                "word": "minister",
+                "count": "181"
+            },
+            {
+                "word": "might",
+                "count": "180"
+            }
+        ],
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "genre": "Literature",
+        "absCount": 9951
+    },
+    {
+        "LexicalDiversity": 10.5803219489866,
+        "freqDist": [
+            {
+                "word": "1",
+                "count": "741"
+            },
+            {
+                "word": "2",
+                "count": "505"
+            },
+            {
+                "word": "The",
+                "count": "461"
+            },
+            {
+                "word": "wood",
+                "count": "407"
+            },
+            {
+                "word": "3",
+                "count": "310"
+            },
+            {
+                "word": "4",
+                "count": "310"
+            },
+            {
+                "word": "6",
+                "count": "278"
+            },
+            {
+                "word": "5",
+                "count": "256"
+            },
+            {
+                "word": "strength",
+                "count": "233"
+            },
+            {
+                "word": "8",
+                "count": "221"
+            },
+            {
+                "word": "0",
+                "count": "204"
+            },
+            {
+                "word": "7",
+                "count": "173"
+            },
+            {
+                "word": "tests",
+                "count": "173"
+            },
+            {
+                "word": "per",
+                "count": "173"
+            },
+            {
+                "word": "pp",
+                "count": "171"
+            }
+        ],
+        "title": "The Mechanical Properties of Wood",
+        "author": "Samuel J. Record",
+        "genre": "Classic",
+        "absCount": 8321
+    },
+    {
+        "LexicalDiversity": 6.2090656799259945,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2531"
+            },
+            {
+                "word": "Thou",
+                "count": "1010"
+            },
+            {
+                "word": "Thee",
+                "count": "878"
+            },
+            {
+                "word": "Thy",
+                "count": "864"
+            },
+            {
+                "word": "For",
+                "count": "568"
+            },
+            {
+                "word": "things",
+                "count": "551"
+            },
+            {
+                "word": "God",
+                "count": "509"
+            },
+            {
+                "word": "yet",
+                "count": "466"
+            },
+            {
+                "word": "And",
+                "count": "432"
+            },
+            {
+                "word": "But",
+                "count": "390"
+            },
+            {
+                "word": "unto",
+                "count": "350"
+            },
+            {
+                "word": "one",
+                "count": "332"
+            },
+            {
+                "word": "Lord",
+                "count": "314"
+            },
+            {
+                "word": "us",
+                "count": "310"
+            },
+            {
+                "word": "O",
+                "count": "301"
+            }
+        ],
+        "title": "The Confessions of Saint Augustine",
+        "author": "Saint Augustine",
+        "genre": "non-Fiction",
+        "absCount": 8390
+    },
+    {
+        "LexicalDiversity": 8.306803154234217,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "680"
+            },
+            {
+                "word": "She",
+                "count": "553"
+            },
+            {
+                "word": "The",
+                "count": "546"
+            },
+            {
+                "word": "He",
+                "count": "493"
+            },
+            {
+                "word": "one",
+                "count": "458"
+            },
+            {
+                "word": "said",
+                "count": "415"
+            },
+            {
+                "word": "Emma",
+                "count": "374"
+            },
+            {
+                "word": "would",
+                "count": "337"
+            },
+            {
+                "word": "like",
+                "count": "321"
+            },
+            {
+                "word": "Charles",
+                "count": "317"
+            },
+            {
+                "word": "And",
+                "count": "295"
+            },
+            {
+                "word": "went",
+                "count": "290"
+            },
+            {
+                "word": "But",
+                "count": "287"
+            },
+            {
+                "word": "Then",
+                "count": "263"
+            },
+            {
+                "word": "It",
+                "count": "230"
+            }
+        ],
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "genre": "Romance",
+        "absCount": 11872
+    },
+    {
+        "LexicalDiversity": 9.028747421466043,
+        "freqDist": [
+            {
+                "word": "I",
+                "count": "2227"
+            },
+            {
+                "word": "The",
+                "count": "814"
+            },
+            {
+                "word": "one",
+                "count": "636"
+            },
+            {
+                "word": "would",
+                "count": "476"
+            },
+            {
+                "word": "river",
+                "count": "417"
+            },
+            {
+                "word": "said",
+                "count": "401"
+            },
+            {
+                "word": "It",
+                "count": "383"
+            },
+            {
+                "word": "time",
+                "count": "349"
+            },
+            {
+                "word": "He",
+                "count": "346"
+            },
+            {
+                "word": "could",
+                "count": "310"
+            },
+            {
+                "word": "A",
+                "count": "283"
+            },
+            {
+                "word": "two",
+                "count": "278"
+            },
+            {
+                "word": "man",
+                "count": "277"
+            },
+            {
+                "word": "water",
+                "count": "245"
+            },
+            {
+                "word": "boat",
+                "count": "232"
+            }
+        ],
+        "title": "Life On The Mississippi",
+        "author": "Mark Twain (Samuel Clemens)",
+        "genre": "Classic",
+        "absCount": 15713
+    }
+]

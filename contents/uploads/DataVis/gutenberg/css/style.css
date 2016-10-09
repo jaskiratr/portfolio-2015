@@ -1,0 +1,250 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+html {
+    background: #F5F5F5;
+    border: solid 8px #353535;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+    font-family: 'Lato', serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a {
+    color: #353535;
+}
+
+h1 {
+    font-family: 'Playfair';
+    font-style: italic;
+    font-size: 3.2em;
+    color: #444;
+    letter-spacing: -1px;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    font-weight: 100;
+}
+
+h3 {
+  font-family: 'Playfair';
+  font-style: italic;
+  font-size: 1.5em;
+  font-weight: 200;
+  color: #666;
+  margin: 10px 0px;
+  letter-spacing: -0.5px;
+}
+
+#title {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#tooltip {
+    position: absolute;
+    /*width: 70%;
+    margin: auto;*/
+    
+    width: 58%;
+    margin: 0% 17%;
+    height: auto;
+    padding: 20px 70px 40px 70px;
+    background-color: white;
+    opacity: 0.93;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: 3px 4px 14px 0px rgba(209, 209, 209, 0.1);
+    -moz-box-shadow: 3px 4px 14px 0px rgba(209, 209, 209, 0.1);
+    box-shadow: 3px 4px 14px 0px rgba(209, 209, 209, 0.1);
+    pointer-events: none;
+    border-bottom: solid 5px #0B0E27;
+}
+
+#tooltip.hidden {
+    /*display: none;*/
+    
+    opacity: 0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+}
+/*#tooltip p {
+
+    
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+}
+*/
+
+.right {
+    text-align: right;
+}
+
+.about {
+    font-family: "lato",serif;
+  font-weight: 300;
+  /* font-style: italic; */
+  line-height: normal;
+}
+
+#chart {
+    width: 90%;
+    margin: auto;
+}
+
+#footer {
+    width: 68%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: right;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    font-size: .7em;
+    color: #999;
+}
+
+#credit {
+    font-size: .5em;
+    margin-top: 5px;
+}
+
+.bar rect {
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.bar rect.background {
+    fill: #eee;
+}
+
+.bar rect.percent {
+    fill: #ED5E60;
+}
+
+.bar rect.num {
+    fill: #444;
+}
+
+.bar:hover rect.percent {
+    fill: #444;
+}
+
+.bar:hover rect.num {
+    fill: #ED5E60;
+}
+
+.bar text {
+    font-size: 12px;
+    fill: #fff;
+    text-shadow: 2px 2px #FF1A1D;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.bar .book_name_2 {
+    /*font-size: 12px;*/
+    
+    fill: #fff;
+    text-shadow: 2px 2px #444;
+    /*font-family: 'Lato', sans-serif;*/
+    /*font-weight: 400;*/
+}
+
+.bar text.num {
+    fill: #fff;
+    text-shadow: 2px 2px #aaa;
+}
+
+.bar text.author {
+    fill: #777;
+    text-shadow: 2px 2px #eee;
+}
+
+.axis line {
+    stroke: #ccc;
+    stroke-width: 1;
+}
+
+line.median {
+    stroke: #999;
+    stroke-width: 1;
+}
+
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 12px;
+    padding: 8px;
+    font: 10px sans-serif;
+    background: #ddd;
+    border: solid 1px #aaa;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+.field_name {
+    font-family: 'Lato', serif;
+    font-weight: 100;
+    font-variant: small-caps;
+    font-style: italic;
+    margin: 0em;
+    margin-top: 1em;
+}
+
+.att_name {
+    font-family: 'Playfair Display', serif;
+    margin-top: 0em;
+    margin-left: 1em;
+}
+
+.att_big {
+    /*float: right;*/
+    
+    font-size: 3em;
+    margin-top: 0em;
+    line-height: 0.8em;
+}
+
+@media only screen and (max-width: 1100px) {
+    #title,
+    #container,
+    #footer {
+        width: 90%;
+    }
+    #tooltip {
+        position: absolute;
+        width: 85%;
+        margin: 0% 6%;
+    }
+}
+/*@media only screen and (max-width: 800px) {
+    #title, #container, #footer{
+        width: 90%;
+    }
+}*/
+
+@media only screen and (max-width: 850px) {
+    #title,
+    #container,
+    #footer {
+        width: 98%;
+    }
+    #tooltip {
+        position: absolute;
+        width: 85%;
+        margin: 0% 6%;
+    }
+}

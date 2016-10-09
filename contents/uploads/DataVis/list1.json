@@ -1,0 +1,477 @@
+[
+    {
+        "LexicalDiversity": 0.05088301198008541,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "LexicalDiversity": 0.1032022655484152,
+        "title": "Grimms' Fairy Tales",
+        "author": "The Brothers Grimm"
+    },
+    {
+        "LexicalDiversity": 0.06610705315125444,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens"
+    },
+    {
+        "LexicalDiversity": 0.10865027254707631,
+        "title": "The Prince",
+        "author": "Nicolo Machiavelli"
+    },
+    {
+        "LexicalDiversity": 0.09731492553538428,
+        "title": "Moby Dick; or The Whale",
+        "author": "Herman Melville"
+    },
+    {
+        "LexicalDiversity": 0.11735124490082993,
+        "title": "The Kama Sutra of Vatsyayana",
+        "author": "Vatsyayana"
+    },
+    {
+        "LexicalDiversity": 0.08842105263157894,
+        "title": "A Modest Proposal",
+        "author": "Jonathan Swift"
+    },
+    {
+        "LexicalDiversity": 0.08976363779545275,
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle"
+    },
+    {
+        "LexicalDiversity": 0.0817506862357815,
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde"
+    },
+    {
+        "LexicalDiversity": 0.050720508019213545,
+        "title": "Great Expectations",
+        "author": "Charles Dickens"
+    },
+    {
+        "LexicalDiversity": 0.06809209171515819,
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman"
+    },
+    {
+        "LexicalDiversity": 0.10253022726892654,
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll"
+    },
+    {
+        "LexicalDiversity": 0.08161947764771374,
+        "title": "Les Miserables",
+        "author": "Victor Hugo"
+    },
+    {
+        "LexicalDiversity": 0.0914328829137801,
+        "title": "Steam, Its Generation and Use",
+        "author": "Babcock & Wilcox Co."
+    },
+    {
+        "LexicalDiversity": 0.24612033759869317,
+        "title": "Dracula",
+        "author": "Bram Stoker"
+    },
+    {
+        "LexicalDiversity": 0.07284542518337218,
+        "title": "Beowulf",
+        "author": "Unknown"
+    },
+    {
+        "LexicalDiversity": 0.11928779364971905,
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte"
+    },
+    {
+        "LexicalDiversity": 0.05568806297451489,
+        "title": "The Narrative of the Life of Frederick Douglass",
+        "author": "Frederick Douglass"
+    },
+    {
+        "LexicalDiversity": 0.10384456441170489,
+        "title": "Emma",
+        "author": "Jane Austen"
+    },
+    {
+        "LexicalDiversity": 0.04177720288376979,
+        "title": "Dubliners",
+        "author": "James Joyce"
+    },
+    {
+        "LexicalDiversity": 0.09046431526917313,
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri"
+    },
+    {
+        "LexicalDiversity": 0.05783998018330443,
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift"
+    },
+    {
+        "LexicalDiversity": 0.16899718837863167,
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain (Samuel Clemens)"
+    },
+    {
+        "LexicalDiversity": 0.06366479696021919,
+        "title": "The Romance of Lust",
+        "author": "Anonymous"
+    },
+    {
+        "LexicalDiversity": 0.11914709978618647,
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman"
+    },
+    {
+        "LexicalDiversity": 0.04576336367132419,
+        "title": "Peter Pan",
+        "author": "James M. Barrie"
+    },
+    {
+        "LexicalDiversity": 0.10063905381882347,
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson"
+    },
+    {
+        "LexicalDiversity": 0.09629849707966782,
+        "title": "The Awakening and Selected Short Stories",
+        "author": "Kate Chopin"
+    },
+    {
+        "LexicalDiversity": 0.07357699899686114,
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad"
+    },
+    {
+        "LexicalDiversity": 0.0429549134416088,
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen"
+    },
+    {
+        "LexicalDiversity": 0.18901224025049815,
+        "title": "The Iliad of Homer",
+        "author": "Homer"
+    },
+    {
+        "LexicalDiversity": 0.09558013695350286,
+        "title": "The Republic",
+        "author": "Plato"
+    },
+    {
+        "LexicalDiversity": 0.1415838988728046,
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte"
+    },
+    {
+        "LexicalDiversity": 0.09892554670711667,
+        "title": "Ulysses",
+        "author": "James Joyce"
+    },
+    {
+        "LexicalDiversity": 0.13275939268123907,
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "LexicalDiversity": 0.05214003481528557,
+        "title": "The Hound of the Baskervilles",
+        "author": "A. Conan Doyle"
+    },
+    {
+        "LexicalDiversity": 0.06641119068559702,
+        "title": "Songs of Innocence and Songs of Experience",
+        "author": "William Blake"
+    },
+    {
+        "LexicalDiversity": 0.04728706272521445,
+        "title": "Three Men in a Boat",
+        "author": "Jerome K. Jerome"
+    },
+    {
+        "LexicalDiversity": 0.07517250393852462,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky"
+    },
+    {
+        "LexicalDiversity": 0.12308448432301643,
+        "title": "Siddhartha",
+        "author": "Herman Hesse"
+    },
+    {
+        "LexicalDiversity": 0.08898183849476136,
+        "title": "A Study In Scarlet",
+        "author": "Arthur Conan Doyle"
+    },
+    {
+        "LexicalDiversity": 0.23082232301321237,
+        "title": "The Legend of Sleepy Hollow",
+        "author": "Washington Irving"
+    },
+    {
+        "LexicalDiversity": 0.09869248930381946,
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas, Pere"
+    },
+    {
+        "LexicalDiversity": 0.0442261118450022,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "LexicalDiversity": 0.08818310858765081,
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain (Samuel Clemens)"
+    },
+    {
+        "LexicalDiversity": 0.12285796228579624,
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad"
+    },
+    {
+        "LexicalDiversity": 0.2277861011870462,
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "LexicalDiversity": 0.03221419288474516,
+        "title": "The King James Bible",
+        "author": "Tanisha Cook"
+    },
+    {
+        "LexicalDiversity": 0.0762493329541424,
+        "title": "Leviathan",
+        "author": "Thomas Hobbes"
+    },
+    {
+        "LexicalDiversity": 0.132166896439867,
+        "title": "The Essays of Montaigne",
+        "author": "Michel de Montaigne"
+    },
+    {
+        "LexicalDiversity": 0.09334537789822343,
+        "title": "Myths and Legends of Ancient Greece and Rome",
+        "author": "E.M. Berens"
+    },
+    {
+        "LexicalDiversity": 0.01966413634081837,
+        "title": "Oliver Twist",
+        "author": "Charles Dickens"
+    },
+    {
+        "LexicalDiversity": 0.05176738705173627,
+        "title": "The Life and Adventures of Robinson Crusoe",
+        "author": "Daniel Defoe"
+    },
+    {
+        "LexicalDiversity": 0.047257974078203646,
+        "title": "English Literature",
+        "author": "William J. Long"
+    },
+    {
+        "LexicalDiversity": 0.0919757176093555,
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling"
+    },
+    {
+        "LexicalDiversity": 0.06391224051105572,
+        "title": "Metamorphosis",
+        "author": "Franz Kafka"
+    },
+    {
+        "LexicalDiversity": 0.0496309833415337,
+        "title": "Pygmalion",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "LexicalDiversity": 0.07477834312212604,
+        "title": "The Gentlemen's Book of Etiquette and Manual of Politeness",
+        "author": "Cecil B. Hartley"
+    },
+    {
+        "LexicalDiversity": 0.09106184867731393,
+        "title": "The Vision of Hell, Translated By The Rev. H. F. Cary,",
+        "author": "Dante Alighieri"
+    },
+    {
+        "LexicalDiversity": 0.11827791235410702,
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois"
+    },
+    {
+        "LexicalDiversity": 0.09263578497421363,
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce"
+    },
+    {
+        "LexicalDiversity": 0.15022416934509797,
+        "title": "The Prince and The Pauper",
+        "author": "Mark Twain (Samuel Clemens)"
+    },
+    {
+        "LexicalDiversity": 0.11923875349484622,
+        "title": "The Time Machine",
+        "author": "H. G. (Herbert George) Wells"
+    },
+    {
+        "LexicalDiversity": 0.10415569707024847,
+        "title": "The Jungle",
+        "author": "Upton Sinclair"
+    },
+    {
+        "LexicalDiversity": 0.1095124985861328,
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African",
+        "author": "Olaudah Equiano"
+    },
+    {
+        "LexicalDiversity": 0.1367129004541549,
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson"
+    },
+    {
+        "LexicalDiversity": 0.06348630610923864,
+        "title": "A Doll's House",
+        "author": "Henrik Ibsen"
+    },
+    {
+        "LexicalDiversity": 0.08437480886460479,
+        "title": "The Mysterious Affair at Styles",
+        "author": "Agatha Christie"
+    },
+    {
+        "LexicalDiversity": 0.08312495004510213,
+        "title": "Candide",
+        "author": "Voltaire"
+    },
+    {
+        "LexicalDiversity": 0.08339013264824621,
+        "title": "The Complete Works of William Shakespeare",
+        "author": "William Shakespeare"
+    },
+    {
+        "LexicalDiversity": 0.13087484785718861,
+        "title": "Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin"
+    },
+    {
+        "LexicalDiversity": 0.031579968259566216,
+        "title": "The Works of Edgar Allan Poe",
+        "author": "Edgar Allan Poe"
+    },
+    {
+        "LexicalDiversity": 0.10589538251831658,
+        "title": "The Call of the Wild",
+        "author": "Jack London"
+    },
+    {
+        "LexicalDiversity": 0.10149056490436185,
+        "title": "Persuasion",
+        "author": "Jane Austen"
+    },
+    {
+        "LexicalDiversity": 0.14062383496955388,
+        "title": "A Christmas Carol",
+        "author": "Charles Dickens"
+    },
+    {
+        "LexicalDiversity": 0.06651919734555221,
+        "title": "Maupassant Original Short Stories (180)",
+        "author": "Guy de Maupassant"
+    },
+    {
+        "LexicalDiversity": 0.1345932242452178,
+        "title": "MY SECRET LIFE",
+        "author": "Jenna Miscavige Hill"
+    },
+    {
+        "LexicalDiversity": 0.035853139051354004,
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft (Godwin) Shelley"
+    },
+    {
+        "LexicalDiversity": 0.03396200839191862,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "LexicalDiversity": 0.03726381556818205,
+        "title": "Forbidden Fruit",
+        "author": "Anonymous"
+    },
+    {
+        "LexicalDiversity": 0.10415970996517673,
+        "title": "Around the World in 80 Days",
+        "author": "Jules Verne"
+    },
+    {
+        "LexicalDiversity": 0.10137806322878344,
+        "title": "The Turn of the Screw",
+        "author": "Henry James"
+    },
+    {
+        "LexicalDiversity": 0.09449987483460287,
+        "title": "Ethan Frome",
+        "author": "Edith Wharton"
+    },
+    {
+        "LexicalDiversity": 0.12059260593506552,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky"
+    },
+    {
+        "LexicalDiversity": 0.033313061538285005,
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum"
+    },
+    {
+        "LexicalDiversity": 0.07560306909406497,
+        "title": "Paradise Lost",
+        "author": "John Milton"
+    },
+    {
+        "LexicalDiversity": 0.13097404511859134,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy"
+    },
+    {
+        "LexicalDiversity": 0.03463807915684783,
+        "title": "Don Juan",
+        "author": "Lord Byron"
+    },
+    {
+        "LexicalDiversity": 0.09923863029717568,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "LexicalDiversity": 0.10231669735248654,
+        "title": "Twelve Years a Slave",
+        "author": "Solomon Northup"
+    },
+    {
+        "LexicalDiversity": 0.09671023859274017,
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne"
+    },
+    {
+        "LexicalDiversity": 0.10580321948986599,
+        "title": "The Mechanical Properties of Wood",
+        "author": "Samuel J. Record"
+    },
+    {
+        "LexicalDiversity": 0.062090656799259944,
+        "title": "The Confessions of Saint Augustine",
+        "author": "Saint Augustine"
+    },
+    {
+        "LexicalDiversity": 0.08306803154234217,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert"
+    },
+    {
+        "LexicalDiversity": 0.09028747421466043,
+        "title": "Life On The Mississippi",
+        "author": "Mark Twain (Samuel Clemens)"
+    }
+]

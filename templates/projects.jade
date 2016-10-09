@@ -1,0 +1,51 @@
+
+extends layout
+
+block content
+  .container
+    .row
+      section.content!= typogr(page.html).typogrify()
+    .row
+      div.grid
+        div.grid-sizer
+        //- - console.log(env.helpers.getArticles(contents)[0].filepath.relative);
+        //- - var list = env.helpers.getArticles(contents);
+        //- - list = list.sort(function(a, b){return a.filepath.relative-b.filepath.relative}); 
+        //- - console.log(list[1].filepath.relative);
+        each article in env.helpers.getArticles(contents).sort(function(a,b){if(a.url>b.url) {return 1;}if(a.url<b.url){return -1;}return 0;})
+          div.grid-item.effect-duke
+            img(src="#{article.url}thumb.jpg")
+            figcaption.valign-wrapper
+              h3: a.yellow-bg.black-text: span #{article.title} 
+              - console.log(article.title);
+              p=article.metadata.excerpt
+              a(href=article.url) View more
+
+    //- - _.chain(env.helpers.getArticles(contents)).groupBy(function(item) {
+    //- -   console.log(item.url);
+    //- -   return item.title;
+    //- - });
+    //- - console.log(archives);
+  //- include author
+  //- each article in articles
+  //-   article.article.intro
+  //-     header
+  //-       p.date
+  //-         span= moment.utc(article.date).format('DD. MMMM YYYY')
+  //-       h2
+  //-         a(href=article.url)= article.title
+  //-     section.content
+  //-       if article.intro.length > 0
+  //-         != typogr(article.intro).typogrify()
+  //-       if article.hasMore
+  //-         p.more
+  //-           a(href=article.url) more
+    .row
+      block prepend footer
+        div.nav
+          if prevPage
+            a(href=prevPage.url) &laquo; Newer
+          else
+            a(href='/archive.html') &laquo; Archives
+          if nextPage
+            a(href=nextPage.url) Next page &raquo;
