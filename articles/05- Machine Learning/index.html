@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>Jaskirat R.
+    </title>
+    <link rel="alternate" href="http://localhost:8080/feed.xml" type="application/rss+xml" title="Portfolio">
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/materialize.css">
+    <link rel="stylesheet" href="/css/glslEditor.css">
+    <link rel="stylesheet" href="/css/custom.css">
+  </head>
+  <body>
+    <header class="header">
+      <nav role="navigation" class="white no-shadow">
+        <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo black-text">JASKIRAT R</a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="/" class="black-text nav-link">Home</a></li>
+            <li><a href="/projects" class="black-text nav-link">Projects</a></li>
+            <li><a href="/about" class="black-text nav-link">About</a></li>
+            <li><a href="http://jaskiratr.tumblr.com/" class="black-text nav-link">Blog</a></li>
+          </ul>
+          <ul id="slide-out" class="side-nav">
+            <li>
+              <div class="userView"><img src="/images/bg.jpg" class="background"><a href="#!user"><img src="/images/profile.jpg" class="circle"></a><a href="/"><span class="white-text name">Jaskirat Randhawa</span></a><a href="mailto:jaskiratr@newschool.edu"><span class="white-text email">jaskiratr@gmail.com</span></a></div>
+            </li>
+            <li><a href="/" class="waves-effect black-text"> <i class="material-icons">cloud</i>Home</a></li>
+            <li><a href="/projects" class="waves-effect black-text"><i class="material-icons">dashboard</i>Projects</a></li>
+            <li><a href="/about" class="waves-effect black-text"> <i class="material-icons">recent_actors</i>About</a></li>
+            <li><a href="http://jaskiratr.tumblr.com/" class="waves-effect black-text"> <i class="material-icons">view_day</i>Blog</a></li>
+          </ul><a href="#" data-activates="slide-out" class="button-collapse black-text"><i class="material-icons">menu</i></a>
+        </div>
+      </nav>
+    </header>
+    <div class="content">
+      <div class="container">
+        <div class="row article-title"> 
+          <h2>Machine Learning</h2>
+          <h5>Using Numpy, Pandas &amp; Scikit-learn</h5>
+        </div>
+        <div class="row">
+          <article class="article">
+            <section class="content"><h4 id="task-1">Task&nbsp;1</h4>
+<p>Find if the review is helpful or not from a given partial Amazon&nbsp;Dataset</p>
+<p><strong>Data</strong>
+Amazon Fine Food Reviews The Amazon Fine Food Reviews dataset consists of 455,000 food reviews Amazon users left up to October&nbsp;2012.</p>
+<p><strong>Description</strong>
+The data is available at the course Canvas page: Amazon.csv in “files.” The dataset is a subset of a publicly available dataset. Important: Publicly available dataset was not used in training or assessing your model. Data source reference: J. McAuley and J. Leskovec. <a href="http://i.stanford.edu/~julian/pdfs/www13.pdf">From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews. <span class="caps">WWW</span>,&nbsp;2013.</a></p>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Id</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ProductId</td>
+<td>unique identifier for the product</td>
+</tr>
+<tr>
+<td>UserId</td>
+<td>unique identifier for the user</td>
+</tr>
+<tr>
+<td>ProfileName</td>
+<td>-</td>
+</tr>
+<tr>
+<td>HelpfulnessNumerator</td>
+<td>number of users who found the review helpful</td>
+</tr>
+<tr>
+<td>HelpfulnessDenominator</td>
+<td>number of users who indicated whether they found the review helpful</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>rating between 1 and 5</td>
+</tr>
+<tr>
+<td>Time</td>
+<td>timestamp for the review</td>
+</tr>
+<tr>
+<td>Summary</td>
+<td>brief summary of the review</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>text of the review</td>
+</tr>
+<tr>
+<td>helpScore</td>
+<td>HelpfulnessNumerator / HelpfulnessDenominator</td>
+</tr>
+<tr>
+<td>helpful</td>
+<td>boolean; =True if review is “helpful”</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Classification Task</strong>
+You are going to train a model to best predict helpful, a boolean indicator that a review was deemed helpful by other shoppers. This was defined as:
+<em>(data.HelpfulnessDenominator &gt; 3) <span class="amp">&amp;</span> (data.helpScore &gt;=&nbsp;0.9)</em></p>
+<p><strong>Restrictions</strong>
+Following variables in Amazon.csv (or variations of them) as features were&nbsp;used:</p>
+<ul>
+<li>helpful</li>
+<li>helpScore</li>
+<li>HelpfulnessNumerator</li>
+<li>HelpfulnessDenominator</li>
+</ul>
+<script src="https://gist.github.com/jaskiratr/d677975fc4696b9494db2fe23c4d352b.js"></script>
+
+<h4 id="results-">Results:</h4>
+<h4 id="logistic-regression">Logistic&nbsp;Regression</h4>
+<ul>
+<li>Error rate on training set:&nbsp;0.0621569858713  </li>
+<li>Accuracy rate on training set:&nbsp;0.937843014129</li>
+<li>True positive rate on training set:&nbsp;0.150551059067</li>
+<li>Error rate on test set:&nbsp;0.0675677655678</li>
+<li>Accuracy rate on test set:&nbsp;0.932432234432</li>
+<li>True positive rate on test set:&nbsp;0.0894373938243</li>
+<li>True negative rate on test set:&nbsp;0.999122481086</li>
+</ul>
+<h4 id="svm"><span class="caps">SVM</span></h4>
+<ul>
+<li>Error rate on training set:&nbsp;0.000963893249608</li>
+<li>Accuracy rate on training set:&nbsp;0.99903610675</li>
+<li>True positive rate on training set:&nbsp;0.993671431032</li>
+<li>Error rate on test set:&nbsp;0.121164835165</li>
+<li>Accuracy rate on test set:&nbsp;0.878835164835</li>
+<li>True positive rate on test set:&nbsp;0.422903967223</li>
+<li>True negative rate on test set:&nbsp;0.914904382061</li>
+</ul>
+<h4 id="naive-bayes">Naive&nbsp;Bayes</h4>
+<ul>
+<li>Error rate on training set:&nbsp;0.00352904238619</li>
+<li>Accuracy rate on training set:&nbsp;0.996470957614</li>
+<li>True positive rate on training set:&nbsp;0.993972791459</li>
+<li>Error rate on test set:&nbsp;0.0932747252747</li>
+<li>Accuracy rate on test set:&nbsp;0.906725274725</li>
+<li>True positive rate on test set:&nbsp;0.352853002898</li>
+<li>True negative rate on test set:&nbsp;0.950542717779</li>
+</ul>
+<h4 id="perceptron">Perceptron</h4>
+<ul>
+<li>Error rate on training set:&nbsp;0.000913657770801</li>
+<li>Accuracy rate on training set:&nbsp;0.999086342229</li>
+<li>True positive rate on training set:&nbsp;0.993456173584</li>
+<li>Error rate on test set:&nbsp;0.120886446886</li>
+<li>Accuracy rate on test set:&nbsp;0.879113553114</li>
+<li>True positive rate on test set:&nbsp;0.422804037174</li>
+<li>True negative rate on test set:&nbsp;0.915212699517</li>
+</ul>
+<hr>
+<hr>
+<h4 id="task-2">Task&nbsp;2</h4>
+<p>Predicting Salaries from a limited dataset of salaries of 2,309&nbsp;employees.</p>
+<p><strong>Data</strong> : Salaries The salaries.csv dataset consists of 2,309 salaries in the <span class="caps">U.S.</span> and Canada of members of an unnamed professional&nbsp;organization.</p>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Function</td>
+<td>Job title, masked</td>
+</tr>
+<tr>
+<td>sup1 - sup5</td>
+<td>Number of employees supervised, for each type of employee (masked)</td>
+</tr>
+<tr>
+<td>salary</td>
+<td>Salary in <span class="caps">U.S.</span> dollars</td>
+</tr>
+<tr>
+<td>gender</td>
+<td>gender</td>
+</tr>
+<tr>
+<td>disabled</td>
+<td>= <span class="caps">TRUE</span> if disabled</td>
+</tr>
+<tr>
+<td>race</td>
+<td>race</td>
+</tr>
+<tr>
+<td>yearsInPosition</td>
+<td>Number of years in current position</td>
+</tr>
+<tr>
+<td>yearsInProfession</td>
+<td>Number of years in the profession</td>
+</tr>
+<tr>
+<td>age</td>
+<td>age</td>
+</tr>
+<tr>
+<td>cred1 - cred2</td>
+<td>=<span class="caps">TRUE</span> of credential obtained (credentials masked)</td>
+</tr>
+<tr>
+<td>highestDegree</td>
+<td>Highest degree earned</td>
+</tr>
+<tr>
+<td>inst1 - inst5</td>
+<td>Number of employees in department at institution, for each type (masked)</td>
+</tr>
+<tr>
+<td>instBudget</td>
+<td>Budget of department, in <span class="caps">U.S.</span> dollars</td>
+</tr>
+<tr>
+<td>Country</td>
+<td>Country (<span class="caps">U.S.</span> or Canada)</td>
+</tr>
+<tr>
+<td>City</td>
+<td>City</td>
+</tr>
+<tr>
+<td>State</td>
+<td>State</td>
+</tr>
+<tr>
+<td>Zip</td>
+<td>Zip code</td>
+</tr>
+<tr>
+<td>Category</td>
+<td>Category (masked)</td>
+</tr>
+<tr>
+<td>instSize</td>
+<td>Size of institution</td>
+</tr>
+<tr>
+<td>instType</td>
+<td>Type of institution (public or private)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The data is available at:</strong>
+<a href="https://github.com/visualizedata/ml">https://github.com/visualizedata/ml</a>
+Provided by Aaron&nbsp;Hill.</p>
+<p><strong>Regression Task</strong> Train a model to best predict&nbsp;salary</p>
+<p><strong>Data Augmentation</strong> The data was augmented with other sources (on City, State, and/or Zip Code only). The features were added before training the model, including dealing with missing&nbsp;values.</p>
+<p><strong>Sources</strong></p>
+<ul>
+<li><a href="https://goo.gl/rCNLwi">State Tax&nbsp;Collections</a></li>
+<li><a href="http://download.geonames.org/export/dump/">Geo&nbsp;Data</a></li>
+<li><a href="http://www.HUDuser.org/portal/picture2008/2008_tract.zip">Subsidized Households&nbsp;2008</a></li>
+<li><a href="https://www.aggdata.com/node/86">Zip&nbsp;Codes</a></li>
+<li><a href="http://www.bls.gov/lau/laucntycur14.txt">Unemployment&nbsp;Rates</a></li>
+</ul>
+<p><a href="https://github.com/jaskiratr/Machine-Learning/blob/master/Assignment%202/salaries_original.csv">Original&nbsp;Dataset</a></p>
+<p><a href="https://github.com/jaskiratr/Machine-Learning/blob/master/Assignment%202/salaries_parent.csv">Final Parent&nbsp;Dataset</a></p>
+<script src="https://gist.github.com/jaskiratr/be370d1c125250bf0022b4315b7cd014.js"></script>
+
+<h4 id="results-">Results&nbsp;:</h4>
+<h4 id="linear-regression">Linear&nbsp;Regression</h4>
+<ul>
+<li>Intercept:&nbsp;50987.7822484</li>
+<li>Residual sum of squares, training data:&nbsp;57319450.73</li>
+<li>Residual sum of squares, test data:&nbsp;81629776.52</li>
+<li>Variance score, training data:&nbsp;0.83</li>
+</ul>
+<p>Distribution of prediction error on training&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/linear_reg_train.png" alt="Training"></div>
+
+<p>Distribution of prediction error on test&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/linear_reg_test.png" alt="Test"></div>
+
+<h4 id="polynomial-regression">Polynomial&nbsp;Regression</h4>
+<ul>
+<li>Intercept:&nbsp;23481.0611532</li>
+<li>Residual sum of squares, training data:&nbsp;0.00</li>
+<li>Residual sum of squares, test data:&nbsp;503583211.41</li>
+<li>Variance score, training data:&nbsp;1.00</li>
+</ul>
+<p>Distribution of prediction error on training&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/polynomial_train.png" alt="Training"></div>
+
+<p>Distribution of prediction error on test&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/polynomial_test.png" alt="Test"></div>
+
+<h4 id="ridge-regression">Ridge&nbsp;Regression</h4>
+<ul>
+<li>Intercept:&nbsp;17798.1238858</li>
+<li>Residual sum of squares, training data:&nbsp;58311575.32</li>
+<li>Residual sum of squares, test data:&nbsp;80243320.76</li>
+<li>Variance score, training data:&nbsp;0.83</li>
+</ul>
+<p>Distribution of prediction error on training&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/ridge_train.png" alt="Training"></div>
+
+<p>Distribution of prediction error on test&nbsp;data:</p>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/ridge_test.png" alt="Test"></div>
+
+<h4 id="residual-sum-of-squares-on-test-datasets-">Residual Sum of Squares on test datasets&nbsp;:</h4>
+<div class="smallImg"><img src="/articles/05-%20Machine%20Learning/compare.png" alt="RSS"></div>
+
+<hr>
+<hr>
+<h4 id="task-3">Task&nbsp;3</h4>
+<p><strong>Dataset</strong> Same as Task&nbsp;1</p>
+<p><strong>Clustering Task</strong> Use KMeans to create an Amazon product recommendation system based on user reviews. The system clusters the products based on patterns created by users who write multiple reviews. One limitation of the data is the lack of a feature that names the product (ProductId is included, but there is no product name). However, in most cases, the product can be deduced by reading the review summary and the first few lines of the&nbsp;review.</p>
+<p>The dataset was not augmented with the data with other sources . However, the original dataset required extensive transformations and feature extractions before training the&nbsp;model.</p>
+<script src="https://gist.github.com/jaskiratr/188b9c8dd93c63c921f603300f7f8f7e.js"></script>
+
+<p><a href="https://github.com/jaskiratr/Machine-Learning">Github&nbsp;Repo</a></p>
+</section>
+          </article>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="content-wrap">
+        <section class="row copy">
+          <hr>
+          <div class="col m8">
+            <p>&copy; 2016 Jaskirat Randhawa</p>
+          </div>
+          <div class="iconSet col m4"><a href="http://www.github.com/jaskiratr" target="_blank"><i class="fa fa-github-square fa-lg"></i></a><a href="http://www.vimeo.com/jaskiratr" target="_blank"><i class="fa fa-vimeo-square fa-lg"></i></a><a href="http://www.jaskiratr.tumblr.com" target="_blank"><i class="fa fa-tumblr-square fa-lg"></i></a><a href="http://www.linkedin.com/in/jaskiratr" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a></div>
+        </section>
+      </div>
+    </footer>
+  </body>
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="/js/masonry.pkgd.js"></script>
+  <script type="text/javascript" src="/js/materialize.js"></script>
+  <script type="text/javascript" src="/js/glslEditor.js"></script>
+  <script type="text/javascript" src="/js/glslEditorFooter.js"></script>
+  <script type="text/javascript" src="/js/custom.js"></script>
+</html>
