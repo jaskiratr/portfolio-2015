@@ -11,12 +11,13 @@ Jaskirat has presented his work at:
 
 - User Interface Software Technology Symposium 2016,Tokyo
 - Spatial User Interfaces 2016, Tokyo
+- IOT Media Mash, 2016, New York
 - Verizon Connected Futures 2015-16, New York
 - NYC Media Lab Annual Summit 2016, New York
 - Parsons Thesis Exhibition 2016, New York
 - Boston Society of Architects Space 2015, Boston
 - Storefront Gallery for Art & Architecture 2015, New York
-
+- Metropolitan Museum of Art, Media Lab Annual Summit, 2014, New York 
 
 ## ||Contact/||
 
