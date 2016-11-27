@@ -1,0 +1,112 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+html {
+    background: #F5F5F5;
+    border: solid 8px #353535;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+}
+a{
+    color :#353535;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 3em;
+    color: #444;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+#title {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#chart {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#footer {
+    width: 68%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: right;
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    font-size: .7em;
+    color: #999;
+}
+
+#credit {
+    font-size: .5em;
+}
+
+.bar rect {
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.bar rect.background {
+    fill: #eee;
+}
+
+.bar rect.percent {
+    fill: #ED5E60;
+}
+
+.bar:hover rect.percent {
+    fill: #444;
+}
+
+.bar text {
+    font-size: 12px;
+    fill: #fff;
+    text-shadow: 2px 2px #FF1A1D;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.axis line {
+    stroke: #ccc;
+    stroke-width: 1;
+}
+
+line.median {
+    stroke: #999;
+    stroke-width: 1;
+}
+
+@media only screen and (max-width: 1100px) {
+    #title,
+    #chart,
+    #footer {
+        width: 90%;
+    }
+}
+/*@media only screen and (max-width: 800px) {
+    #title, #chart, #footer{
+        width: 90%;
+    }
+}*/
+
+@media only screen and (max-width: 850px) {
+    #title,
+    #chart,
+    #footer {
+        width: 98%;
+    }
+}
