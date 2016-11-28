@@ -14,10 +14,10 @@ block content
         iframe(src=contents['index.md'].metadata.video frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen)
     .row
       block prepend footer
-        div.nav
-          if prevPage
-            a(href=prevPage.url) &laquo; Newer
-          else
-            a(href='/archive.html') &laquo; Archives
-          if nextPage
-            a(href=nextPage.url) Next page &raquo;
+        //- div.nav
+        //-   if prevPage
+        //-     a(href=prevPage.url) &laquo; Newer
+        //-   else
+        //-     a(href='/archive.html') &laquo; Archives
+        //-   if nextPage
+        //-     a(href=nextPage.url) Next page &raquo;

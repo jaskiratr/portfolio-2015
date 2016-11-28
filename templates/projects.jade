@@ -20,26 +20,6 @@ block content
               - console.log(article.title);
               p=article.metadata.excerpt
               a(href=article.url) View more
-
-    //- - _.chain(env.helpers.getArticles(contents)).groupBy(function(item) {
-    //- -   console.log(item.url);
-    //- -   return item.title;
-    //- - });
-    //- - console.log(archives);
-  //- include author
-  //- each article in articles
-  //-   article.article.intro
-  //-     header
-  //-       p.date
-  //-         span= moment.utc(article.date).format('DD. MMMM YYYY')
-  //-       h2
-  //-         a(href=article.url)= article.title
-  //-     section.content
-  //-       if article.intro.length > 0
-  //-         != typogr(article.intro).typogrify()
-  //-       if article.hasMore
-  //-         p.more
-  //-           a(href=article.url) more
     .row
       block prepend footer
         div.nav
