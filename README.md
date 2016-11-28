@@ -30,3 +30,6 @@ gulp build
 gulp deploy-pages
 gulp deploy-master
 ```
+
+## Highlight headings in .md content files
+` ## ||Your heading goes here/||`
