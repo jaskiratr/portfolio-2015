@@ -6,13 +6,11 @@ var git = require('gulp-git');
 var argv = require('yargs').argv;
 var runSequence = require('run-sequence');
 
-/*
-gulp server
-gulp build
-gulp deploy
-*/
 
-gulp.task("server", function() {
+//---------------------------------------------------------
+// Running local server `gulp serve`
+//---------------------------------------------------------
+gulp.task("serve", function() {
   var child = exec("wintersmith preview");
   child.stdout.on('data', function(data) {
     console.log('stdout: ' + data);
@@ -26,17 +24,9 @@ gulp.task("server", function() {
 });
 
 
-gulp.task('gh-pages', function() {
-    return gulp.src('./build/**/*')
-      .pipe(ghPages());
-});
-
-// Dependant task: 'gh-pages'. Wait for it to finish
-gulp.task('clean', ['gh-pages'], function() {
-  gulp.src(['./build','./.publish'], {read: false})
-      .pipe(clean());
-});
-
+//---------------------------------------------------------
+// Build static pages `gulp build`
+//---------------------------------------------------------
 gulp.task("build", function() {
   var child = exec("wintersmith build --clean");
   child.stdout.on('data', function(data) {
@@ -50,8 +40,28 @@ gulp.task("build", function() {
   });
 });
 
-gulp.task('deploy', ['gh-pages', 'clean']);
 
+//---------------------------------------------------------
+// Deploy gh-pages `gulp deploy-pages`
+//---------------------------------------------------------
+gulp.task('deploy-pages', ['gh-pages', 'clean']);
+
+gulp.task('gh-pages', function() {
+    return gulp.src('./build/**/*')
+      .pipe(ghPages());
+});
+
+// Clean static files
+//Dependant task: 'gh-pages'. Wait for it to finish
+gulp.task('clean', ['gh-pages'], function() {
+  gulp.src(['./build','./.publish'], {read: false})
+      .pipe(clean());
+});
+
+
+//---------------------------------------------------------
+// Deploy master `gulp master`
+//---------------------------------------------------------
 gulp.task('add', function() {
   console.log('adding...');
   return gulp.src('.')
@@ -71,8 +81,6 @@ gulp.task('push', function(){
   });
 });
 
-// gulp.task('gitsend', ['add', 'commit', 'push']);
-
-gulp.task('gitsend', function() {
+gulp.task('deploy-master', function() {
   runSequence('add', 'commit', 'push');
 });
