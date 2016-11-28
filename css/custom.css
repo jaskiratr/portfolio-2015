@@ -6,7 +6,6 @@ body {
 h1, h2, h3, h4 {
   font-family: 'Arapey', serif;
   font-style: italic;
-  /*margin-bottom: 1em;*/
   line-height: 1.4em;
 }
 
@@ -44,13 +43,14 @@ p, ul, tr {
   line-height: 1.7em;
   padding: 1em .5em;
 }
+
 .content ul li {
   list-style-type: disc;
   margin-left: 1em;
   margin-top:
 }
 
-.content ul{
+.content ul {
   margin-top: -2em;
 }
 
@@ -167,8 +167,13 @@ nav ul a:hover {
 
 .side-nav {
   padding: 0;
+  font-family: raleway;
+  font-size: 1em;
 }
 
+.side-nav .userView{
+  border-bottom: #FFF000 2px solid;
+}
 
 /*Responsive video*/
 
