@@ -22,3 +22,10 @@ block content
     .row
       article.article
         section.content!= typogr(page.html).typogrify()
+    .row
+      block prepend footer
+        div.nav
+          if prevPage
+            a(href=prevPage.url) &laquo; Newer
+          if nextPage
+            a(href=nextPage.url) Next page &raquo;
