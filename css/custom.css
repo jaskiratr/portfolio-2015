@@ -171,9 +171,10 @@ nav ul a:hover {
   font-size: 1em;
 }
 
-.side-nav .userView{
+.side-nav .userView {
   border-bottom: #FFF000 2px solid;
 }
+
 
 /*Responsive video*/
 
@@ -361,6 +362,7 @@ nav ul a:hover {
 .copy .iconset {
   line-height: 1.7em;
   padding: 1em 1em;
+  margin-top: 10px;
 }
 
 .copy .iconSet a {
@@ -416,5 +418,14 @@ nav ul a:hover {
   }
   .content p img {
     padding: 0em;
+  }
+  .copy .copyright {
+    text-align: center;
+  }
+  .copy .iconset {
+    margin-left: -5px;
+  }
+  .copy .iconSet a {
+    float: inherit;
   }
 }
