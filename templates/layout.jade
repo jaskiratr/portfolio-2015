@@ -66,13 +66,14 @@ html(lang='en')
         block footer
           section.row.copy
             hr      
-            .col.m8
+            .col.m8.s12.copyright
               p &copy; #{ new Date().getFullYear() } #{ locals.owner }
-            .iconSet.col.m4
-              a(href='http://www.github.com/jaskiratr',target="_blank"): i.fa.fa-github-square.fa-lg
-              a(href='http://www.vimeo.com/jaskiratr',target="_blank"): i.fa.fa-vimeo-square.fa-lg
-              a(href='http://www.jaskiratr.tumblr.com',target="_blank"): i.fa.fa-tumblr-square.fa-lg
-              a(href='http://www.linkedin.com/in/jaskiratr',target="_blank"): i.fa.fa-linkedin-square.fa-lg
+            .iconSet.col.m4.s12
+              .center-align
+                a(href='http://www.github.com/jaskiratr',target="_blank"): i.fa.fa-github-square.fa-lg
+                a(href='http://www.vimeo.com/jaskiratr',target="_blank"): i.fa.fa-vimeo-square.fa-lg
+                a(href='http://www.jaskiratr.tumblr.com',target="_blank"): i.fa.fa-tumblr-square.fa-lg
+                a(href='http://www.linkedin.com/in/jaskiratr',target="_blank"): i.fa.fa-linkedin-square.fa-lg
   script(src="https://code.jquery.com/jquery-2.1.1.min.js")
   script(type="text/javascript" src=contents.js['masonry.pkgd.js'].url)
   script(type="text/javascript" src=contents.js['materialize.js'].url)
