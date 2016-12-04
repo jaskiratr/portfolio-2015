@@ -22,7 +22,7 @@ Along with hands-on prototyping, starter-code was provided for participants and 
 
 </div>
 <div class="col s12 m6 l6">
-![3.jpg](3.jpg)
+![5.jpg](5.jpg)
 ![6.jpg](6.jpg)
 ![7.jpg](7.jpg)
 </div>
