@@ -1,4 +1,4 @@
-var url = "words.json",
+var url = "https://gist.githubusercontent.com/jaskiratr/6fa9bf5067dff79c65f66742f310d30d/raw/df0f51bc912b1b88cd233d782d0e3835948836c4/gutenberg.json",
     margin = {
         top: 30,
         right: 10,
