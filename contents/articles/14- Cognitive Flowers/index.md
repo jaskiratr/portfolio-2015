@@ -19,8 +19,7 @@ Cognitive Flowers explores physical computing and wearable technology. Our resea
 
 The motion of flowers depends upon the users state of mind. We used Neurosky Mindwave Mobile to obtain Alpha brain wave values of the user. The flowers would behave erratically when the user is not mentally focused. But, when he/she is focusing, the flowers would calm down to mimic a state of tranquility.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/115460920' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/115460920' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <div class="col m12 l6">
 ![image2.jpg](image2.jpg)

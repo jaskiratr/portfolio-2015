@@ -4,12 +4,6 @@
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
 
- /*@import url(http://fonts.googleapis.com/css?family=Muli:300,400,300italic,400italic);*/
- /*@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic);*/
- @import url(http://fonts.googleapis.com/css?family=Raleway:500,600,800,100,700,900,400,200,300);
- @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
- @import url(https://fonts.googleapis.com/css?family=Arapey:400,400italic);
-
 .materialize-red {
   background-color: #e51c23 !important;
 }

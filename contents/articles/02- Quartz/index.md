@@ -19,7 +19,7 @@ Made by Daniel Sauter and Jaskirat R. with support of Joel Stoehr
       process aims for a novel computer-aided design approach to form two- and three-dimensional glass artifacts that benefit from the material’s toughness, optical quality, and thermal stability.
     </p>
     <p>
-      The photo on the top shows the modified CNC Machine in its current stage. It can extrude simple geometries with consistent thickness and high fidelity based on a CAD drawing. The project documentation is available [here](http://quartzdesign.io). 
+      The photo on the top shows the modified CNC Machine in its current stage. It can extrude simple geometries with consistent thickness and high fidelity based on a CAD drawing. The project documentation is available [here](http://quartzdesign.io).
   </div>
 </div>
 
@@ -27,7 +27,7 @@ Made by Daniel Sauter and Jaskirat R. with support of Joel Stoehr
 - [Complete Documentation](http://quartzdesign.io)
 - [Experiments Videos](https://vimeo.com/album/4021301)
 - [Github Repository](https://github.com/danielsauter/quartz)
-- [Daniel's work](http://danielsauter.com/)
+- [Daniel Sauter](http://danielsauter.com/)
 
 <div class="row">
   <div class="col m12 l6">

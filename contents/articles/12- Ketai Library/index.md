@@ -27,4 +27,4 @@ Libraries used:
 - [Javadocs to Markdown](https://github.com/delight-im/Javadoc-to-Markdown)
 - [Woods](https://github.com/studiomoniker/woods)
 
-Contributed to the [Rapid Android Development book](https://pragprog.com/book/dsproc/rapid-android-development), Authored by Daniel Sauter
+Get the book here: [Rapid Android Development book](https://pragprog.com/book/dsproc/rapid-android-development), Authored by Daniel Sauter

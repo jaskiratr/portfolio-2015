@@ -32,3 +32,6 @@ JB1.0: Jamming Bodies is an immersive installation that transforms Storefront's 
 ![image2](image2.jpg)
 
 ![image4](image4.jpg)
+
+#### Publication
+[Wired UK : Jamming Bodies: this robotic wall will eat you alive](http://www.wired.co.uk/article/lucy-mcrae-skylar-tibbits-jb10-jamming-bodies-film) 
