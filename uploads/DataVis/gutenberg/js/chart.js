@@ -1,4 +1,4 @@
-var url = "../data/words.json",
+var url = "words.json",
     margin = {
         top: 30,
         right: 10,
