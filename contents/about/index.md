@@ -3,12 +3,12 @@ title: About
 template: about.jade
 ---
 ## ||Hello!/||
-Jaskirat is a Senior Product Engineer in Open Innovation team at Verizon. His work focuses on emerging technologies for interaction design.
-Jaskirat is also part-time faculty at Parsons School of Design, New York. He teaches graduate class on Creativity and Computation at the school's Design & Technology Program. His academic research at Parsons and professional efforts within Verizon emphasize on creating products for boosting productivity and workflow in enterprises. Jaskirat endeavors in building meaningful technologies and experiences that benefit people's work.
+Jaskirat is a Product Manager at Digital Innovation, Verizon, New York. His work focuses on emerging technologies for interaction design.
+Jaskirat is also part-time faculty at Parsons School of Design, New York. He teaches graduate class Web Advanced Javascript at the school's Design & Technology Program. His academic research at Parsons and professional efforts within Verizon emphasize on creating products for boosting productivity and workflow in enterprises. Jaskirat endeavors in building meaningful technologies and experiences that benefit people's work.
 
 
 Jaskirat has presented his work at:
-
+- YouFab Global Creative Awards, 2016, Tokyo
 - User Interface Software Technology Symposium 2016,Tokyo
 - Spatial User Interfaces 2016, Tokyo
 - IOT Media Mash, 2016, New York
